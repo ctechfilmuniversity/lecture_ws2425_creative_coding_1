@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scripts p5
-has_children: false
+nav_exclude: true
 ---
 
 # Creative Coding For Beginners

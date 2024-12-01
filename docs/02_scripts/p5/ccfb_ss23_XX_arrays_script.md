@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Scripts p5
+nav_exclude: true
+---
 
 ## Spritesheet Animation
 

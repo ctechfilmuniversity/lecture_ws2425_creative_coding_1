@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Script 11 - Sound
-parent: Scripts
-nav_order: 11
+title: Scripts p5
+nav_exclude: true
 ---
 
 
