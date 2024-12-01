@@ -64,10 +64,10 @@ With this course, you will
 
 | Session | Topic        | Subtopics              | Tech                       | Libraries / Tools  |
 | ------- | ------------ | ---------------------- | -------------------------- | ------------------ |
-| 1       | Motivation   | Creative Coding        |                            |                    |
-|         |              | Setup                  | Material management        | Git, GitHub        |
-|         |              |                        | Markdown                   | Visual Studio Code |
-|         | Emergence    | 2D Design              | Development environments   | p5                 |
+| 1       | Emergence    | Motivation             |                            |                    |
+|         |              | Creative Coding        | Material management        | Git, GitHub        |
+|         |              | Setup                  | Markdown                   | Visual Studio Code |
+|         |              | 2D Design              | Development environments   | p5                 |
 | 2       | Instructions | Algorithmic Thinking   | Programming overview       | p5                 |
 |         |              | Basic Interaction      |                            |                    |
 | 3       | Connection   | The Web                | html, css, js              |                    |
