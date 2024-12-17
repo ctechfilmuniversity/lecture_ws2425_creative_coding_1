@@ -5,8 +5,8 @@ body {
 h1, h2, h3, h4 {
     font-family: 'Playfair Display';
     font-weight: 400;
-    margin-bottom: 0.28em;
-    margin-top: 0.28em;
+    margin-bottom: 0.48em;
+    margin-top: 0.18em;
 }
 
 
@@ -24,8 +24,14 @@ h1, h2, h3, h4 {
 .remark-slide-content h2 { font-size: 2.1em; }
 .remark-slide-content h3 { font-size: 1.3em; }
 
-li { line-height: 1.8em; }
-/* ul { margin-top: 0.7em; } */
+li { 
+    line-height: 1.6em; 
+    margin-left: .4em;
+}
+
+ul { 
+    margin: .4em; 
+} 
 
 .red { color: #fa0000; }
 .green { color: #08fa00; }
@@ -80,10 +86,18 @@ code {
 }
 
 
-.inverse h1, .inverse h2, .inverse h3 {
+.inverse h1, .inverse h2, .inverse h3, .inverse p {
     color: #ffffff;
     /* text-shadow: 0 0 8px rgb(0, 122, 78); */
     text-shadow: 0 0 10px rgb(15, 65, 49);
+    line-height: 1.em;
+    /* margin-bottom: 1em; */
+}
+
+.inverse p {
+    color: #ffffffc0;
+    /* text-shadow: 0 0 8px rgb(0, 122, 78); */
+    text-shadow: 0 0 0px rgb(15, 65, 49);
     line-height: 1.em;
     /* margin-bottom: 1em; */
 }
@@ -153,11 +167,13 @@ code {
 .footnote a {
     color:#909090;
     text-decoration: underline;
+    margin-top: 0.18em;
 }
 
 .remark-slide-content p { 
     margin: 0.2em;
 }
+
 
 .imgref a {
     /* position: absolute; */

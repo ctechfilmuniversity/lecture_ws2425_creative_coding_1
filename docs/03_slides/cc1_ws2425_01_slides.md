@@ -84,17 +84,11 @@ template:inverse
 
 # Creative Coding 🤩
 
----
-template:inverse
-
-### Lecture 1
-
-# Topics
 
 ---
 layout: false
 
-## Topics
+## Today
 
 --
 * Creative Coding
@@ -104,9 +98,6 @@ layout: false
 
 --
 * Learning Objectives
-
---
-* Tools and Environments 
 
 --
 * Administration
@@ -124,7 +115,6 @@ template:inverse
 
 Examples  
 Learning Objectives  
-Tools and Environments  
 Administration  
 Emergence  
 p5.js  
@@ -165,63 +155,15 @@ The last aspect of developing tools is somewhat detached and not necessarily par
 
 --
 
-*How could you focus with a software project on one of the above mentioned terms?*
-
-???
-
-.task[ASK:]  
-
----
-.header[Introduction | Creative Coding]
-
-## Practical Approaches
-
-???
+<br />
+*How could you explore one of the above mentioned terms with a software project?*
 
 
-Well, the above is still pretty vague. What does it mean specifically? The following aspects of content creation, data and media formats describe in more detail what can be considered as creative coding:
-
---
-* Algorithms to create graphics and sound  
-
---
-  
-→  Procedural Generation and Simulation next term
 
 ---
-.header[Introduction | Creative Coding]
+.header[Introduction]
 
-## Practical Approaches
-
-* Algorithms to create graphics and sound  
-* Smart, meaningful or unusual data sources
-
---
-    * Images, video, sound
-    * Camera and microphone
-    * Online resources such as Twitter, Instagram and ChatGPT
-    * Mobile devices as sensors
-    * ...
-
----
-.header[Introduction | Creative Coding]
-
-## Practical Approaches
-
-* Algorithms to create graphics and sound  
-* Smart, meaningful or unusual data sources
-* Diverse output formats
-
---
-    * Web
-    * From large-scale such as buildings to small-scale such as smart watches
-    * Multi-screen setups for example with mobile devices
-    * ...
-
----
-.header[Introduction | Creative Coding]
-
-## Practical Approaches
+## Creative Coding
 
 
 ???
@@ -230,19 +172,25 @@ For your creative work, I would like to encourage you to use the following as gu
 --
 
 > What do I have available and what can I do with that beyond the obvious?
+  
+
+--
+
+# ☝🏻
+
+
+???
+* Available also in reference to one own skill set
 
 
 
 ---
-template: inverse
-
-## Design and Communication
-
----
-.header[Introduction]
+.header[Introduction | Creative Coding]
 
 
 ## Design and Communication
+
+--
 
 
 We read, experience, share and create with the potential community of all web users. 
@@ -265,7 +213,6 @@ Creative Coding ✓
 
 # Examples  
 Learning Objectives  
-Tools and Environments  
 Administration  
 Emergence  
 p5.js  
@@ -275,7 +222,7 @@ p5.js
 
 ## Paper Planes
 
-[<img src="../02_scripts/img/introduction/paperplanes.png" alt="paperplanes" style="width:29%;">  <img src="../02_scripts/img/introduction/paperplanes_02.png" alt="paperplanes_02" style="width:36%;">](https://paperplanes.world/) [[Paper Planes]](https://paperplanes.world/)
+[<img src="../02_scripts/img/introduction/paperplanes.png" alt="paperplanes" style="width:29%;">  <img src="../02_scripts/img/introduction/paperplanes_02.png" alt="paperplanes_02" style="width:36%;">](https://paperplanes.world/) [[Paper Planes ⬀]](https://paperplanes.world/)
 
 <!-- [![paperplanes](../02_scripts/img/introduction/paperplanes.png)](https://paperplanes.world/)   -->
 <!-- [[Paper Planes]](https://paperplanes.world/) -->
@@ -290,32 +237,28 @@ p5.js
 [![wind](../02_scripts/img/introduction/wind.png)](https://deck.gl/showcases/wind/)  
 [[deck.gl]](https://deck.gl/showcases/wind/)
 
--->
-
----
-.header[Introduction | Examples]
-
-## Landlines
 
 [<img src="../02_scripts/img/introduction/landlines_01.png" alt="landlines_01" style="width:80%;">](https://lines.chromeexperiments.com/) [[Land Lines]](https://lines.chromeexperiments.com/)
 
-
-???
 * The website of Zach Lieberman lets you explore Google maps satellite images through gestures. With the draw option, you can find similar satellite images that match the line that you draw on the screen. With the drag option, you can draw an infinite landscape based on your mouse movement.
 
----
-.header[Introduction | Examples]
-
-## Cinemetrics
-
-[<img src="../02_scripts/img/introduction/cinemetrics.png" alt="name" style="width:30%;">](https://cinemetrics.site/) [[Cinemetrics]](https://cinemetrics.site/)
+-->
 
 ---
 .header[Introduction | Examples]
 
 ## Unnumbered Sparks
 
-[<img src="../02_scripts/img/introduction/sparks.png" alt="name" style="width:42%;">](https://www.youtube.com/watch?v=npjTmG-TBHQ&feature=emb_logo) [[Unnumbered Sparks]](http://www.aaronkoblin.com/project/unnumbered-sparks/)
+[<img src="../02_scripts/img/introduction/sparks.png" alt="name" style="width:42%;">](https://www.youtube.com/watch?v=npjTmG-TBHQ&feature=emb_logo) [[Unnumbered Sparks ⬀]](http://www.aaronkoblin.com/project/unnumbered-sparks/)
+
+
+
+---
+.header[Introduction | Examples]
+
+## Cinemetrics
+
+[<img src="../02_scripts/img/introduction/cinemetrics.png" alt="name" style="width:30%;">](https://cinemetrics.site/) [[Cinemetrics ⬀]](https://cinemetrics.site/)
 
 
 
@@ -347,7 +290,7 @@ template: inverse
 
 ## Miro Board
 
-[<img src="../02_scripts/img/introduction/miro_01.png" alt="name" style="width:60%;">](https://miro.com/)
+[<img src="../02_scripts/img/introduction/miro_01.png" alt="name" style="width:58%;">](https://miro.com/)
 
 --
 
@@ -388,7 +331,6 @@ For example with [Hydra](https://hydra.ojack.xyz/docs/#/) you can live code in t
 <img src="../02_scripts/img/introduction/movielabs_01.png" alt="movielabs_01" style="width:32%;"> [[Movielabs]](https://movielabs.com/wp-content/uploads/2019/12/movielabs_evolution_media_creation_2.0.pdf)
 
 ???
-.task[COMMENT:]
 
 
 *The evolution of media creation - A 10-Year Vision for the Future of Media Production, Post and Creative Technologies* entnommen.  
@@ -410,8 +352,6 @@ Cloud-basierte Technologien und Prozess sind auf dem Vormarsch, nicht zu letzt w
 .footnote[[[The Evolution of Media Creation - A 10-Year Vision for the Future of Media Production, Post and Creative Technologies]](https://movielabs.com/)]
 
 ???
-.task[COMMENT:]
-
 
 
 Des weiteren wird gesagt dass sich alle Produktionsprozesse fundamental dahingehend verändern, dass Software zu den Daten kommt... und nicht genau umgekehrt wie es gerade ist.
@@ -431,11 +371,9 @@ All assets are created or ingested straight into the cloud and do not need to be
 ### -> Applications come to the data!
 
 
----
-template: inverse
+???
 
-### Do you know of any creative coding examples? 
-## Please share!
+Do you know of any creative coding examples? Please share!
 
 
 
@@ -445,7 +383,6 @@ template:inverse
 Creative Coding ✓  
 Examples ✓  
 # Learning Objectives  
-Tools and Environments  
 Administration  
 Emergence  
 p5.js  
@@ -464,7 +401,7 @@ p5.js
 
 --
 
-With this course, you will 
+With this course, you 
 
 --
 * advance your ability to write code,
@@ -488,7 +425,6 @@ With this course, you will
 ???
 * Here some impressions of student projects of the previous years:
 
----
 .header[Introduction | Examples | Student Work]
 .center[<img src="../02_scripts/img/introduction/hw_07_clausen.png" alt="name" style="width:100%;">  
 [by Phil Clausen]]
@@ -561,294 +497,17 @@ With this course, you will
 .center[<img src="../02_scripts/img/introduction/final_ho_01.png" alt="final_ho_01" style="width:80%;">  
 [by Jonathan Ho] ]
 
----
-template:inverse
-
-Creative Coding ✓  
-Examples ✓  
-Learning Objectives ✓ 
-# Tools and Environments  
-Administration  
-Emergence  
-p5.js  
-
-???
-
-* As part of the introduction, I would like to give you an overview of possible languages, tools and environments for creative coding. I classify these aspects into:
-
----
-
-## Tools and Environments
-
---
-* Programming Languages and Frameworks
-
---
-* Software
-
---
-* Hardware
-
----
-.header[Tools and Environments]
-
-## Programming Languages
-
-* JavaScript
-* Python
-* C++
-* Java
-* C#
-* [Scala](https://scala-lang.org/)
-* [Clojure](https://clojure.org/)
-* [Rust](https://www.rust-lang.org/)
-* [Kotlin](https://kotlinlang.org/)
-* [Orca](https://github.com/hundredrabbits/Orca)
-
-
-???
-* [Scala](https://www.creativescala.org/), https://scala-lang.org/
-* [Clojure](https://www.maria.cloud/) (online-environment + curriculum)
-* https://www.rust-lang.org/
-* https://clojure.org/
-* https://kotlinlang.org/
-* https://github.com/hundredrabbits/Orca
-
----
-.header[Tools and Environments]
-
-## Programming Languages
-
-* **JavaScript**
-* **Python**
-* **C++**
-* Java
-* C#
-* [Scala](https://scala-lang.org/)
-* [Clojure](https://clojure.org/)
-* [Rust](https://www.rust-lang.org/)
-* [Kotlin](https://kotlinlang.org/)
-* [Orca](https://github.com/hundredrabbits/Orca)
-
-
-
----
-.header[Tools and Environments]
-
-## Frameworks
-
---
-
-> A software framework is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate development of software applications, products and solutions.
-
---
-
-* A special case of software library
-* Abstractions of code wrapped in a well-defined Application Programming Interface (API)
-
-
-.footnote[[[Wikipedia: Software Framework](https://en.wikipedia.org/wiki/Software_framework), [Stack Overflow: What is a software framework](https://stackoverflow.com/questions/2964140/what-is-a-software-framework)]]
-
-
-???
-* Contain some key distinguishing features
-
-Analogy
-* A library is like a toolbox where you pick and use the tools you need.
-* A framework is like a template or structure for a house; you build your application around its blueprint.
-
-In short, a library gives you tools to use as you choose, while a framework provides a structure within which you work and defines much of the flow of your application.
-
----
-.header[Tools and Environments | Frameworks]
-
-## Processing & [p5](https://openprocessing.org/sketch/2467308)
-
---
-* Frameworks and IDEs
-    * Processing: Java-based and standalone
-    * p5: Javascript wrapper for Processing and web-based
-
---
-* Graphics, sound and interaction
-
-
-???
-* Holy grail for artists and creative coders
-* https://openprocessing.org/sketch/1957050/#code
-
---
-
-> Focus on simplicity for beginners but also suitable for prototyping for experts.
-
-
-
----
-
-.header[Tools and Environments | Frameworks]
-
-## JavaScript
-
-* [p5.js](https://p5js.org/examples/)
-* [three.js](https://threejs.org/)
-* [sketch.js](http://soulwire.github.io/sketch.js/)
-* [D3](https://d3js.org/)
-* [PixiJS](http://www.pixijs.com/gallery)
-* [Phaser](https://phaser.io/)
-* [babylonjs](https://www.babylonjs.com/)
-* [Tone.js](https://tonejs.github.io/)
-* [tixy.land](https://tixy.land/)
-* [Hydra](https://hydra.ojack.xyz/)
-* [Quil](http://quil.info/)
-
-???
-
-JavaScript libraries directly relevant in the creative coding context (of course we will need base tools such as node.js as well):
-
-* Any other suggestions?
-* [Tone.js](https://tonejs.github.io/) for audio related creative coding
-* [tixy.land](https://tixy.land/) — minimalist creative coding environment
-* [Hydra](https://hydra.ojack.xyz/) — creative live coding
-* [Quil](http://quil.info/) — processing + clojure
-
-
----
-
-.header[Tools and Environments | Frameworks]
-
-## JavaScript
-
-* [**p5.js**](https://p5js.org/examples/)
-* [**three.js**](https://threejs.org/)
-* [sketch.js](http://soulwire.github.io/sketch.js/)
-* [D3](https://d3js.org/)
-* [PixiJS](http://www.pixijs.com/gallery)
-* [Phaser](https://phaser.io/)
-* [babylonjs](https://www.babylonjs.com/)
-* [Tone.js](https://tonejs.github.io/)
-* [tixy.land](https://tixy.land/)
-* [Hydra](https://hydra.ojack.xyz/)
-* [Quil](http://quil.info/)
-
-???
-
-* Any other suggestions?
-
----
-.header[Tools and Environments | Frameworks]
-
-## C++
-
-* [OpenFrameworks](https://openframeworks.cc/)
-* [Cinder](https://libcinder.org/gallery)  
-
----
-.header[Tools and Environments | Frameworks]
-
-## C++
-
-* [**OpenFrameworks**](https://openframeworks.cc/)
-* [Cinder](https://libcinder.org/gallery)  
-
---
-
-  
-→ Creative Coding II next term: OpenFrameworks
-
----
-.header[Tools and Environments | Frameworks]
-
-## Others
-
-* [Nannou for Rust](https://nannou.cc/)
-* [OpenRNDR for Kotlin](https://openrndr.org/)
-
----
-.header[Tools and Environments]
-
-## Software
-
-* [Touch Designer](https://www.derivative.ca/), [vvvv / vvvv gamma](https://vvvv.org/), [Pure Data](https://puredata.info/), [Max/MSP](https://cycling74.com/)
-* [MadMapper](https://madmapper.com/), [Millumin 2](https://www.millumin.com/v2/index.php), [VDMX](https://vidvox.net/), [Resolume](https://resolume.com/)
-* [LUMOplay](https://www.lumoplay.com/)
-* [Unity](https://unity3d.com), [Unreal](https://www.unrealengine.com)
-* [Reaper](https://www.reaper.fm/), [Ableton](https://www.ableton.com)
-* [Maya](https://www.autodesk.de/products/maya/overview), [Houdini](https://www.sidefx.com/), [3dsMax](https://www.autodesk.de/products/3ds-max/overview), [Cinema4D](https://www.maxon.net/de/produkte/cinema-4d/cinema-4d/), [ZBrush](https://pixologic.com/), [Allegorithmic](https://www.allegorithmic.com/)
-* [Nuke](https://www.foundry.com/products/nuke), [After Effects](https://www.adobe.com/de/products/aftereffects.html), [Avid](https://www.avid.com/de/), [Premiere](https://www.adobe.com/products/premiere.html?promoid=PQ7SQBYQ&mv=other)
-* [Flash](https://en.wikipedia.org/wiki/Adobe_Flash), [Director MX](https://en.wikipedia.org/wiki/Adobe_Director)
-* [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=PC1PQQ5T&mv=other), [Illustrator](https://www.adobe.com/products/illustrator.html?promoid=PGRQQLFS&mv=other), [InDesign](https://www.adobe.com/products/indesign.html)
-
-
-???
-
-* [**Touch Designer**](https://www.derivative.ca/), [vvvv / vvvv gamma](https://vvvv.org/), [Pure Data](https://puredata.info/), [**Max/MSP**](https://cycling74.com/)
-* [MadMapper](https://madmapper.com/), [Millumin 2](https://www.millumin.com/v2/index.php), [VDMX](https://vidvox.net/), [Resolume](https://resolume.com/)
-* [LUMOplay](https://www.lumoplay.com/)
-* [**Unity**](https://unity3d.com), [**Unreal**](https://www.unrealengine.com)
-* [Reaper](https://www.reaper.fm/), [Ableton](https://www.ableton.com)
-* [Maya](https://www.autodesk.de/products/maya/overview), [**Houdini**](https://www.sidefx.com/), [3dsMax](https://www.autodesk.de/products/3ds-max/overview), [Cinema4D](https://www.maxon.net/de/produkte/cinema-4d/cinema-4d/), [ZBrush](https://pixologic.com/), [Allegorithmic](https://www.allegorithmic.com/)
-* [Nuke](https://www.foundry.com/products/nuke), [After Effects](https://www.adobe.com/de/products/aftereffects.html), [Avid](https://www.avid.com/de/), [Premiere](https://www.adobe.com/products/premiere.html?promoid=PQ7SQBYQ&mv=other)
-* [Flash](https://en.wikipedia.org/wiki/Adobe_Flash), [Director MX](https://en.wikipedia.org/wiki/Adobe_Director)
-* [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=PC1PQQ5T&mv=other), [Illustrator](https://www.adobe.com/products/illustrator.html?promoid=PGRQQLFS&mv=other), [InDesign](https://www.adobe.com/products/indesign.html)
-
-... 
-
----
-.header[Tools and Environments]
-
-## Hardware
-
-.left-even[
-* Micro controllers
-* Sensors, e.g. depth
-* Projectors
-* VR, AR, MR devices
-* Displays
-* Drone
-* Eye, brain tracker  
-]
-
-???
-
-* **Micro controllers**
-* **Sensors**, e.g. depth
-* **Projectors**
-* **VR**, AR, MR devices
-* Displays
-* Drone
-* Eye, brain tracker  
-
---
-
-.right-even[
-
-<br />
-→ Technology Introductions and Creative Technologies this term
-]
----
-.header[Tools and Environments]
-
-## Tools and Environments 
-
-Please refer to the [learning list about software](https://github.com/ctechfilmuniversity/ctech_resources/tree/master/learning) in the [ctech_resources](https://github.com/ctechfilmuniversity/ctech_resources) repo (and add to it if you know of something that is not included in the list)!
-
---
-
-> This repo hasn't been updated in a while...
-
----
-template:inverse
-
-## Programming in this Class
 
 ---
 
 ## Programming in this Class
+
+--
 
 > The focus of this class is not "learn how to program", however it is the goal that you all learn how to program with this class. 
   
   
-### 😁  
+# 😁
 
 
 
@@ -866,28 +525,26 @@ template:inverse
 * Weekly programming assignments
 
 --
-* Assignments are open-ended and are related to the session's topic (and tech)
+* Assignments are open-ended and are related to the session's topics
 
 --
-* Each assignment is evaluated on three levels
+* Assignments are evaluated on three levels
     * Concept
     * Form
     * Implementation
 
 
 ---
-template: inverse
 
-# Introduction Summary
+## Summary
 
 ???
 
 As summary to this short introduction to creative coding, I like the following advertisements from Mercedes a lot. To me they represent us - Creative Technologists - very well.
 
----
+--
 
-.center[<img src="../02_scripts/img/introduction/ad_mercedes_2.jpg" alt="name" style="width:80%;">  
-[[I believe in ad]](http://www.ibelieveinadv.com/commons2/mercedes-benz-left-brain-right-brain-einstein.jpg)]
+.center[<img src="../02_scripts/img/introduction/ad_mercedes.jpg" alt="name" style="width:68%;"> .imgref[[[I believe in ad]](http://www.ibelieveinadv.com/commons2/mercedes-benz-left-brain-right-brain-einstein.jpg)]]
 
 ???
 *On A Side Note*: Please keep in mind though that the theories of the sides of our brains having the above characteristics are simply wrong. Our brains are much more complex and there is no scientific evidence for tests such as "are you a left or right brain person"?
@@ -906,10 +563,9 @@ p5.js
 
 
 ???
-* [Go through the readme](https://ctechfilmuniversity.github.io/lecture_ws2324_creative_coding_1/)
+* [Go through the readme](https://ctechfilmuniversity.github.io/lecture_ws2425_creative_coding_1/)
 
-
-## Resources
+Resources
 
 [[1] Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)  
 [[2] Research essay: The History of Processing](https://maxoffsky.com/research/research-essay-the-history-of-processing/)  
@@ -931,10 +587,9 @@ p5.js
 ---
 
 .center[<img src="../02_scripts/img/emergence/ten_print.png" alt="name" style="width:100%;">]
+  
 
 ???
-
-.task[TASK:]  
 
 * What do we see? Can you find the underlying algorithm? (If you already know it please don't answer)
 
@@ -967,6 +622,7 @@ f="╱╲";while :;do print -n ${f[(RANDOM % 2) + 1]};done
 * Show terminal version
 
 ---
+.header[Emergence]
 
 ## 10 PRINT
 
@@ -985,7 +641,7 @@ f="╱╲";while :;do print -n ${f[(RANDOM % 2) + 1]};done
 ]
 
 ---
-
+.header[Emergence]
 ## 10 PRINT
 
 .left-even[
@@ -998,13 +654,13 @@ f="╱╲";while :;do print -n ${f[(RANDOM % 2) + 1]};done
 
 
 ---
-
+.header[Emergence]
 ## 10 PRINT
 
 .left-even[
 <img src="../02_scripts/img/emergence/ten_print_commodore.png" alt="name" style="width:100%;">
 
-*Which parameters could we define?*
+***Which parameters could we define?***
 
 ]
 
@@ -1016,7 +672,7 @@ f="╱╲";while :;do print -n ${f[(RANDOM % 2) + 1]};done
 ]
 
 ---
-.header[10 PRINT | Parametrization]
+.header[Emergence | 10 PRINT | Parametrization]
 
 ## The Spacing
 
@@ -1025,7 +681,7 @@ f="╱╲";while :;do print -n ${f[(RANDOM % 2) + 1]};done
 
 
 ---
-.header[10 PRINT | Parametrization]
+.header[Emergence | 10 PRINT | Parametrization]
 
 ## The Probability
 
@@ -1039,7 +695,7 @@ E.g., 90% probability for a backslash
 template: inverse
 
 
-## What Is Emergence?
+## *What Is Emergence?*
 
 ???
 
@@ -1093,9 +749,7 @@ template: inverse
 ---
 .header[Emergence]
 
-## Snowflakes
-
-<img src="../02_scripts/img/emergence/snowflakes_02.jpg" alt="snowflakes_02" style="width:55%;">  
+<img src="../02_scripts/img/emergence/snowflakes_02.jpg" alt="snowflakes_02" style="width:75%;">  
 .caption[An early classification of snowflakes by Israel Perkins Warren.]
 
 .footnote[[Wikipedia. 2023. [*Snowflake*](https://en.wikipedia.org/wiki/Snowflake).]]
@@ -1106,7 +760,7 @@ template: inverse
 
 ## Termites
 
-<img src="../02_scripts/img/emergence/termite_01.jpg" alt="termite_01" style="width:30%;">  
+<img src="../02_scripts/img/emergence/termite_01.jpg" alt="termite_01" style="width:28%;">  
 
 
 .footnote[[Wikipedia. 2023. [*Emergence*](https://en.wikipedia.org/wiki/Emergence).]]
@@ -1121,7 +775,7 @@ template: inverse
 
 ## Birds
 
-<img src="../02_scripts/img/emergence/flock_birds_01.jpg" alt="flock_birds_01" style="width:60%;">  
+<img src="../02_scripts/img/emergence/flock_birds_01.jpg" alt="flock_birds_01" style="width:58%;">  
 
 
 .footnote[[B. Yirka. 2015. [*Researchers use wave theories to understand flocks of birds*](https://www.sott.net/article/297335-Researchers-use-wave-theories-to-understand-flocks-of-birds). Sign of the times.]]
@@ -1131,20 +785,12 @@ template: inverse
 ---
 template: inverse
 
-## What Does Emergence Mean in the Context of Creative Coding?
+## *What Does Emergence Mean in the Context of Creative Coding?*
 
 ---
 
 .center[<img src="../02_scripts/img/emergence/ten_print.png" alt="name" style="width:100%;">]
 
-
----
-
-## Emergence
-
-
-[Casey Reas - On Emergence ![Casey Reas - On Creative Coding and Emergence](../02_scripts/img/emergence/youtube_small.png)](https://www.youtube.com/watch?v=_8DMEHxOLQE)
-  
 
 
 ???
@@ -1190,63 +836,18 @@ Emergence ✓
 # p5.js  
 
 ---
-## Processing & p5
 
-* [p5](https://p5js.org/) is a library for JavaScript
-    * You write JavaScript code but you have additional commands from p5
+## Processing & p5.js
+
+~~What are Processing & p5?~~ 
+
+
+???
+* Next session
+
 --
-* p5 is based on the Java framework Processing
-    * Processing came first
-    * p5 is Processing running in a webbrowser
-    * p5 and Processing are very similar
 
-
-
-???
-.task[COMMENT:]  
-
-Processing
-
-* 2001 developed in the research group Aesthetics and Computation of the Technology Media Labs at the Massachusetts Institute of Technology by the students Ben Fry and Casey Reas.
-* 2012 the Processing Foundation (a non-profit corporation) was established
-
-
->Our mission is to promote software literacy within the visual arts, and visual literacy within technology-related fields — and to make these fields accessible to diverse communities. Our goal is to empower people of all interests and backgrounds to learn how to program and make creative work with code, especially those who might not otherwise have access to these tools and resources.
-
----
-## Processing & p5
-
-> Our mission is to promote software literacy within the visual arts, and visual literacy within technology-related fields, and to make these fields accessible to diverse communities. Our goal is to empower people of all interests and backgrounds to learn how to program and make creative work with code, especially those who might not otherwise have access to these tools and resources.
-
-.footnote[[[The Processing Foundation](https://processing.org/), [Crouch, M. (2019). 6 ways to get into creative coding. Creative Bloq.](https://www.creativebloq.com/features/6-ways-to-get-into-creative-coding)]]
-
-???
-
-* Processing came first and still a bit better documented but to me it feels like as if the Processing Foundation is moving away from Processing and solely focus on p5 now. In this class we will only work with p5. You should chose between using Processing and p5 depending on the type of project, you are doing.
-
-* When is it more suitable to use Processing, when p5?
-* Who has worked with Processing before?
-
----
-.header[p5.js]
-
-## Resources & Community
-
-* [p5 Reference](https://p5js.org/reference/)
-* [Open Processing](https://www.openprocessing.org)
-* [Happy Coding](https://happycoding.io)
-* [Generative Gestaltung](http://www.generative-gestaltung.de)
-* [Creative Applications](https://www.creativeapplications.net/category/processing/)
-* The fairest of them all: [Daniel Shiffmann](https://thecodingtrain.com/) 🤴🏻
-    * [The Coding Train Intro](https://www.youtube.com/watch?v=_t0ZBAk72K8)
-
-
-???
-.task[COMMENT:]  
-
-* One of the aspects that made Processing, and now p5, so popular is its community and the vast amount of resources.
-* Show coding train intro
-* [procssing.org](https://processing.org)
+> Let's dive right into it...
 
 ---
 .header[p5.js]
@@ -1263,7 +864,9 @@ p5 comes with a programming environment the [p5.js Editor](https://editor.p5js.o
 
 
 ???
-.task[COMMENT:]  
+
+
+
 
 * The environment enables you to write and to execute code  
 * For this week, we are going to do all coding in the online editor 
@@ -1286,14 +889,15 @@ Go over the following aspects in the editor together:
 
 ## p5.js
 
---
 
-<iframe src="https://editor.p5js.org/legie/full/0lByVe-mH" width="500" height="520" ></iframe>  
   
---
-  
-<iframe src="https://editor.p5js.org/legie/full/LyTHREIeS" width="500" height="520" ></iframe>
+<iframe src="https://editor.p5js.org/legie/full/LyTHREIeS" width="1020" height="520" ></iframe>
 
+
+???
+* Go to code
+
+.task[TASK: take our background, change number of circles]
 
 
 ---
@@ -1325,7 +929,9 @@ function draw() {
 
 ???
 
-.task[COMMENT:]  
+
+
+
 
 * In p5 a sketch **must** include the following base structure:
 
@@ -1366,7 +972,9 @@ function draw() {
 
 ???
 
-.task[COMMENT:]  
+
+
+
 
 * You have to accept the structure as given from the p5 gods for now. You must not change it and use it exactly as is, with all words and parenthesis.
 
@@ -1423,7 +1031,9 @@ function draw() {
 ]
 
 ???
-.task[COMMENT:]  
+
+
+
 
 * The values change the size of the canvas.
 * You can use the variables `windowWidth` and `windowHeight` for automatically detecting the current size of the display window.
@@ -1440,7 +1050,9 @@ function draw() {
 
 
 ???
-.task[COMMENT:]  
+
+
+
 
 * The canvas is a grid of small rectangles that combined make up the image. These rectangles are called pixel (picture element). To create an image you have to assign a color to each pixel.
 
@@ -1456,7 +1068,9 @@ Thankfully, p5 give us many convenient drawing functions so that we don't have t
 
 
 ???
-.task[COMMENT:]  
+
+
+
 
 * A point on the canvas is identified by a (x, y) coordinate based on the following coordinate system
 
@@ -1497,10 +1111,6 @@ function draw() {
 </script>
 
 
-???
-.task[COMMENT:]  
-
-CODE!
 
 ---
 .header[p5.js | Drawing]
@@ -1513,7 +1123,9 @@ A typical drawing function call could look for example as follows:
 
 ![ch01_13](../02_scripts/img/p5/ch01_13.png)
 
-**The order of the parameters is fixed and must be followed!**
+
+???
+* The order of the parameters is fixed and must be followed!
 
 
 ---
@@ -1537,7 +1149,7 @@ Arguments:
 <img src="../02_scripts/img/p5/ch01_15.png" alt="ch01_15" style="width:110%;">
 ]
 
----
+???
 .header[p5.js | Drawing]
 
 ## Triangle
@@ -1554,18 +1166,13 @@ function draw() {
 }
 </script>
 
-???
-.task[COMMENT:]  
-
-CODE!
-
 
 ---
 .header[p5.js | Drawing]
 
 ## 2D Primitives
 
-
+.left-even[
 * `arc()`
 * `ellipse()`
 * `circle()`
@@ -1575,120 +1182,80 @@ CODE!
 * `rect()`
 * `square()`
 * `triangle()`
+]
+.right-even[
+* Polygons 
+* Images, Videos
+* etc.
+]
 
 
 ---
 .header[p5.js | Drawing]
 
-## Polygon
+## Colors
 
-A number of given vertices are connected with a line:
-
-.center[<img src="../02_scripts/img/p5/ch01_26.png" alt="ch01_26" style="width:100%;">]
-
-
-???
-.task[COMMENT:]  
-
-CODE!  
-  
-A number of given vertices are connected with a line:
-
-.center[<img src="../02_scripts/img/p5/ch01_26.png" alt="ch01_26" style="width:75%;">]
-
-* `beginShape` tells Processing that we are giving vertices for a polygon now
-* Corners are added with the `vertex` command
-* `endShape` ends the definition
-    * `CLOSE` tells Processing to close the shape
-    * If not given the last and first vertices of the poly are not connected
-
-
-A number of given vertices are connected with a line:
-
-.center[<img src="../02_scripts/img/p5/ch01_27.png" alt="ch01_27" style="width:100%;">]
-
----
-.header[p5.js | Drawing]
-
-## Polygon
-
-<script type="text/p5" data-p5-version="1.6.0" data-autoplay data-height="400" data-preview-width="360" >
-function setup() {
-    createCanvas(300, 300);
-}
-
-function draw() {
-
-    beginShape();
-
-    vertex(270, 10);
-    vertex(20, 150);
-    vertex(240, 280);
-    vertex(290, 240);
-
-    endShape();
-}
-</script>
+* RGBA and HSB
 
 
 
 ---
-template: inverse
-
-# Colors
-
-???
-
-.task[ASK:]  
-
-* What is a color system?
-
----
-.header[Colors]
+.header[p5.js | Drawing | Colors]
 
 ## RGB
 
---
+
 
 .left-even[
-By default Processing uses RGBA-color space with
-
+* The default
 * red, green, blue, alpha
 * 0 … 255
-* 0 = no color, 255 = full saturation
+    * 0 = no color, 255 = full saturation
 ]
---
+
 .right-even[
-![ch01_19](../02_scripts/img/p5/ch01_19.jpg)[⬀](http://cdn.tutsplus.com/active/uploads/legacy/tuts/076_rgbShift/Tutorial/1.jpg)
+![ch01_19](../02_scripts/img/p5/ch01_19.jpg).imgref[[tutsplus](http://cdn.tutsplus.com/active/uploads/legacy/tuts/076_rgbShift/Tutorial/1.jpg)]
 ]
 
 ???
-.task[COMMENT:]  
+
+
+
 
 * 1 byte = 8 bits = 2^8 = 256 values
 * `0,0,0` is black, `255, 255, 255` white
 
 
----
-.header[Colors | RGBA]
 
-## Alpha
+---
+.header[p5.js | Drawing | Colors]
+
+## RGB
+
+
 
 .left-even[
-Alpha describes the transparency of the, e.g., filling:
-
-* red, green, blue, **alpha**
+* The default
+* red, green, blue, alpha
 * 0 … 255
-* 0 = fully transparent
-* 255 = fully opaque
+    * 0 = no color, 255 = full saturation
+* Alpha is optional
+    * 0 = fully transparent, 255 = fully opaque
 ]
 
 .right-even[
-![ch01_20](../02_scripts/img/p5/ch01_20.png)[⬀](http://cdn.tutsplus.com/active/uploads/legacy/tuts/076_rgbShift/Tutorial/1.jpg)
+![ch01_19](../02_scripts/img/p5/ch01_19.jpg)![ch01_20](../02_scripts/img/p5/ch01_20.png).imgref[[tutsplus](http://cdn.tutsplus.com/active/uploads/legacy/tuts/076_rgbShift/Tutorial/1.jpg)]
 ]
 
+???
+
+* 1 byte = 8 bits = 2^8 = 256 values
+* `0,0,0` is black, `255, 255, 255` white
+
+
+
 ---
-.header[Colors]
+.header[p5.js | Drawing]
 
 ## Color Function Calls
 
@@ -1698,28 +1265,9 @@ Setting the background color:
 background(r, g, b);
 ```
 
+
+
 --
-<script type="text/p5" data-p5-version="1.6.0" data-autoplay data-height="300" data-preview-width="360" >
-function setup() {
-    createCanvas(200, 200);
-}
-
-function draw() {
-    background(0, 255, 0);
-}
-</script>
-
-
-???
-.task[COMMENT:]  
-
-CODE!
-
-
----
-.header[Colors]
-
-## Color Function Calls
 
 Changing attributes of the drawing commands:
 
@@ -1729,10 +1277,10 @@ stroke(r, g, b);
 strokeWeight(w);
 ```
 
-
 ???
-.task[COMMENT:]  
 
+
+```js
 function setup() {
     createCanvas(300, 300);
 }
@@ -1746,7 +1294,7 @@ function draw() {
 
     circle(150, 150, 150);
 }
-
+```
 
 --
 
@@ -1757,7 +1305,9 @@ noStroke();
 
 
 ???
-.task[COMMENT:]  
+
+
+
 
 
 function setup() {
@@ -1785,11 +1335,18 @@ function draw() {
 }
 
 ---
-.header[Colors]
+.header[p5.js | Drawing | Colors]
 
 ## Example
 
-<script type="text/p5" data-p5-version="1.6.0" data-autoplay data-height="500" data-preview-width="380" >
+[.center[<img src="../02_scripts/img/p5/ex_drawing_01.png" alt="ex_drawing_01" style="width:100%;">]](https://editor.p5js.org/legie/sketches/1evI31ovv)
+
+
+???
+
+https://editor.p5js.org/legie/sketches/1evI31ovv
+
+```
 function setup() {
     createCanvas(300, 400);
     // Background color of the canvas
@@ -1806,62 +1363,28 @@ function draw() {
     fill(255, 255, 0); 
     rect(0, 250, 500, 250);
 }
-</script>
+```
 
-???
-.task[COMMENT:]  
+Rainbow: https://editor.p5js.org/legie/sketches/oLR_BdLGu
 
-CODE!
 
 ---
-.header[Colors]
+.header[p5.js | Drawing]
 
-## Example
+## Colors
 
-<script type="text/p5" data-p5-version="1.6.0" data-autoplay data-height="500" data-preview-width="380" >
 
-// https://happycoding.io/tutorials/p5js/calling-functions/rainbow
+* HSB has many benefits...
 
-function setup() {
-    createCanvas(400, 420);
-    noStroke();
-}
+--
 
-function draw() {
-    // red
-    fill(255, 0, 0);
-    rect(0, 0, 400, 60);
+```js
+colorMode(HSB);
+```
 
-    // orange
-    fill(255, 165, 0);
-    rect(0, 60, 400, 60);
+[.center[<img src="../02_scripts/img/p5/hsb_01.png" alt="name" style="width:50%;"> ⬀]](https://editor.p5js.org/legie/sketches/D1R-Owv47)
 
-    // yellow
-    fill(255, 255, 0);
-    rect(0, 120, 400, 60);
 
-    // green
-    fill(0, 255, 0);
-    rect(0, 180, 400, 60);
-
-    // blue
-    fill(0, 0, 255);
-    rect(0, 240, 400, 60);
-
-    // indigo
-    fill(75, 0, 130);
-    rect(0, 300, 400, 60);
-
-    // violet
-    fill(148, 0, 211);
-    rect(0, 360, 400, 60);
-}
-</script>
-
-???
-.task[COMMENT:]  
-
-CODE!
 
 
 
@@ -1935,6 +1458,7 @@ Algorithm
 ## Place a `/` or a `\`
 
 ```js
+// https://editor.p5js.org/legie/sketches/vyn6r7pxG
 line(x, y, x + SPACING, y + SPACING);
 // OR
 line(x, y + SPACING, x + SPACING, y);
@@ -1942,7 +1466,7 @@ line(x, y + SPACING, x + SPACING, y);
 
 --
 
-.center[<img src="../02_scripts/img/emergence/10print_slash_01.png" alt="name" style="width:75%;">]
+.center[<img src="../02_scripts/img/emergence/10print_slash_01.png" alt="name" style="width:65%;">]
 
 
 ---
@@ -1950,7 +1474,7 @@ line(x, y + SPACING, x + SPACING, y);
 
 ## Go Row by Row
 
-<img src="../02_scripts/img/p5/ch05_04.png" alt="name" style="width:45%;">
+<img src="../02_scripts/img/p5/ch05_04.png" alt="name" style="width:42%;">
 
 --
 > Repeatedly place a circle...
@@ -1969,10 +1493,7 @@ for(let i = 0; i < numberOfTimes; i++)
 }
 ```
 
-
 ???
-
-.task[COMMENT:]  
 
 * You can chose any variable name as iterator
     * `i` as short for iterator is just typical
@@ -1984,7 +1505,20 @@ for(let i = 0; i < numberOfTimes; i++)
     * You can chose any step size you want, e.g. `i+=12`
 
 
---
+
+---
+.header[Emergence | Implementation | 10 PRINT]
+
+## Repeatedly Do...
+
+```js
+for(let i = 0; i < numberOfTimes; i++)
+{
+
+    // code
+
+}
+```
 
 ```js
 for(let i = 0; i < 3; i++){
@@ -1992,19 +1526,14 @@ for(let i = 0; i < 3; i++){
 }
 ```
 
-
 ???
-.task[COMMENT:]  
 
-Show: https://editor.p5js.org/legie/sketches/98D_XyBFp
+.task[TASK: Show: https://editor.p5js.org/legie/sketches/98D_XyBFp]
 
-## *On a Side Note...*
+*On a Side Note...*
 
 What is the scope of the iteration variable?  
-  
 
-<br >
-  
 The scope is **local** within the loop code block, meaning it is only visible inside the loop:
 
 ```js
@@ -2033,7 +1562,9 @@ print(i); //gives an error
 
 
 ???
-.task[COMMENT:]  
+
+
+
 
 As we are working on a 2D canvas in x and y, often times a 2D loop is used to fill a space, for example the canvas. You can imagine this as the filling of a grid.
 
@@ -2104,11 +1635,15 @@ For every row {
 ```
 
 ???
-.task[COMMENT:]  
 
-* https://editor.p5js.org/legie/sketches/Me8yU-bYb
+
+
+
+.task[TASK: https://editor.p5js.org/legie/sketches/Me8yU-bYb]
 * Change to circles
-* Show smilies
+* Interactive: https://editor.p5js.org/legie/sketches/0n3f4l4LX
+* Smilies: https://editor.p5js.org/legie/sketches/_5AIeq1cu
+
 
 
 ---
@@ -2127,6 +1662,10 @@ Algorithm
 * Place a `/` or a `\` **✓** 
 * Randomly?
 ]
+
+
+???
+.task[TASK: https://editor.p5js.org/legie/sketches/lc865kPIt]
 
 
 ---
@@ -2195,32 +1734,26 @@ function draw() {
 }
 ```
 
+
+???
+
+.task[TASK: https://editor.p5js.org/legie/sketches/VDfxWIEAL]
+
 ---
-.header[Emergence]
+.header[Emergence | Implementation]
 
-## Implementation
+.center[<img src="../02_scripts/img/emergence/ten_print_p5.jpg" alt="ten_print_p5" style="width:55%;">]
 
-.left-even[<img src="../02_scripts/img/emergence/ten_print_p5.jpg" alt="ten_print_p5" style="width:95%;">]
-
-.right-even[
-
-Algorithm
-
-* Go row by row  **✓** 
-* Place a `/` or a `\` **✓** 
-* Randomly  **✓** 
-]
 
 
 ---
 
-## Topics
+## Session
 
 .left-even[
 * Creative Coding
 * Examples
 * Learning Objectives
-* Tools and Environments 
 * Administration
 * Emergence
 * p5.js
@@ -2236,11 +1769,53 @@ Algorithm
 
 ---
 
+## Session
+
+.left-even[
+* Creative Coding
+* Examples
+* Learning Objectives
+* Administration
+* Emergence
+* p5.js
+  
+<br />
+
+[Exercise ↗︎](../01_sessions/01_emergence/README.md)
+
+]
+
+.right-even[
+
+<br/><br/><br/>
+
+# 🤯
+]
+
+
+
+---
+
 ## Next
 
-More p5...
+--
 
-.todo[TODO:] Add Ritas Christmas sketch / an exemplary Christmas card
+> What is that we are doing...?  
+  
+➝ Algorithmic Thinking
+
+--
+
+> And with what anyways...?  
+  
+➝ Languages & Environments
+
+--
+  
+> And are we online yet...?  
+  
+➝ html, css, js, webserver
+
 
 ---
 template: inverse

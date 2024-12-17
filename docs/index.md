@@ -10,7 +10,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  \| Film University Babe
   
 ---
 
-![ad_mercedes](02_scripts/img/ad_mercedes.jpg)  
+![ad_mercedes](./02_scripts/img/introduction/ad_mercedes_2.jpg)  
 [[Ads of the world]](https://www.adsoftheworld.com/media/print/mercedes_left_brain_right_brain_paint)  
 
 ## Syllabus
@@ -67,17 +67,17 @@ With this course, you will
 | 1       | Emergence    | Motivation             |                            |                    |
 |         |              | Creative Coding        | Material management        | Git, GitHub        |
 |         |              | Setup                  | Markdown                   | Visual Studio Code |
-|         |              | 2D Design              | Development environments   | p5                 |
-| 2       | Instructions | Algorithmic Thinking   | Programming overview       | p5                 |
-|         |              | Basic Interaction      |                            |                    |
-| 3       | Connection   | The Web                | html, css, js              |                    |
+|         |              | 2D Design              |                            | p5                 |
+| 2       |              | Interaction            | Programming overview       |                    |
+| 3       | Connection   | Algorithmic Thinking   | Languages & Environments   | JavaScript         |
+|         |              | The Web                | html, css, js              |                    |
 |         |              | Going Online           | Local Webserver            |                    |
 |         |              |                        | Development workflow       |                    |
 | 4       | Space        | 3D                     |                            | three.js           |
 |         |              | Gui                    |                            |                    |
-| 5       | Asynchronism | Higher Order Functions | Function notations         |                    |
+| 5       | Instructions | Algorithms             |                            |                    |
+| 5       |              | Higher Order Functions | Function notations         |                    |
 |         |              |                        | Local Package Installation | Node, npm, vite    |
-|         |              | Algorithms             |                            |                    |
 | 6       | Abstraction  | Software               | Frontend                   | React              |
 |         |              | Portfolios             |                            |                    |
 | 7       | Systems      | Usefulness             | Database                   | Next.js            |
