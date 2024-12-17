@@ -16,8 +16,10 @@ This session is all about diving into the topic of creative coding and getting s
 
 Complete this session by December 19. Going through the scripts and answering the questions should take < 8h. This session is graded on concept, form, engineering quality, effort and personal learnings.
 
-$${\color{lightgreen}
-\text{Announcement: On Friday, Jan. 10, 14:00-16:00, room 6119, I offer an optional session, where I am answering your coding questions and review your code if you like.}}$$
+**Announcement: On Friday, Jan. 10, 14:00-16:00, room 6119, I offer an optional session, where I am answering your coding questions and review your code if you like.**
+
+<!-- $${\color{lightgreen}
+\text{Announcement: On Friday, Jan. 10, 14:00-16:00, room 6119, I offer an optional session, where I am answering your coding questions and review your code if you like.}}$$ -->
 
 
 
@@ -109,7 +111,7 @@ Find an existing creative coding project that you like. Coding needs to play a s
 
 ## p5
 
-If you are a beginner, you can find detailed and slowly explained information in the scripts of my [*Creative Coding for Beginners Course*](../../02_scripts/p5/)(Scripts -> p5).
+If you are a beginner, you can find detailed and slowly explained information in the scripts of my [*Creative Coding for Beginners Course*](../../02_scripts/p5/) (Scripts -> p5).
 
 Also, please refer to [p5's reference](https://p5js.org/reference/). It is well-made.
 
@@ -155,7 +157,7 @@ A nice example for basic programming with a creative idea, is Rita's card:
   
 Rita had no programming experience and this task was one of her first programming attempts. While her code is really *not ideal*, she had a great idea for the skill level she had, and she made it work.
 
-If you have a bit of programming experience already, I expect that you go beyond p5's basic interaction mechanism! For example, you could use some form of input live-stream as interaction. The easiest input is to use a webcam. Creating a webcam feed can be done with [`createCapture()`](https://p5js.org/reference/#/p5/createCapture). For working with video, the [ml5 library](https://learn.ml5js.org/#/tutorials/hello-ml5) offers many interesting functionality extensions based on machine learning.
+If you have a bit of programming experience already, I expect that you go beyond p5's basic interaction mechanism! For example, you could use some form of input live-stream as interaction. The easiest input is to use a webcam. Creating a webcam feed can be done with [`createCapture()`](https://p5js.org/reference/#/p5/createCapture). For working with video, the [ml5 library](https://ml5js.org/) offers many interesting functionality extensions based on machine learning.
 
 
 *Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5. 
