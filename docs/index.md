@@ -126,7 +126,7 @@ Unless stated otherwise:
 * For each week, you have to submit something self-contained, as weekly sessions are not meant to be connected.
 * A session concludes with the question about your own personal learnings and how you challenged yourself in that session. Please take this task seriously (this question also receives points).
 * You are allowed to work in groups for the practical tasks, but each group member has to submit their own learnings.
-* You can submit session assignments until **February 1st**. For submissions after the given session deadline, I reduce **15% of the total points** of that session. 
+* You can submit session assignments until **February 28th**. For submissions started after the given session deadline, I reduce **15% of the total points** of that session. 
 
 As assignments and tasks are flexible, you are equally responsible to get the best out of this lecture! 
 

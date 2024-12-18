@@ -14,9 +14,9 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  \| Film University Babe
 
 This session is all about diving into the topic of creative coding and getting started and excited 😊.
 
-Complete this session by December 19. Going through the scripts and answering the questions should take < 8h. This session is graded on concept, form, engineering quality, effort and personal learnings.
+Complete this session by January 14. Going through the scripts and answering the questions should take < 8h. This session is graded on concept, form, engineering quality, effort and personal learnings.
 
-**Announcement: On Friday, Jan. 10, 14:00-16:00, room 6119, I offer an optional session, where I am answering your coding questions and review your code if you like.**
+**Announcement: On Friday, Jan. 10, 14:00-16:00, room 6119, I offer an optional CC1 session, where I am answering your coding questions and review your code if you like.**
 
 <!-- $${\color{lightgreen}
 \text{Announcement: On Friday, Jan. 10, 14:00-16:00, room 6119, I offer an optional session, where I am answering your coding questions and review your code if you like.}}$$ -->
@@ -130,7 +130,7 @@ For the coding of this session, it is sufficient to use p5's [online editor](htt
 
 Write a sketch that generates a pattern with a similar logic as the 10 PRINT example. Your pattern should follow an element-by-element and row-by-row iterative creation process. If you are a beginner, you can use [the code from the slides](https://editor.p5js.org/legie/sketches/nrfQTzxMI) as a basis (fully understand it first, though!). The goal is to create a visual pleasing or interesting pattern. 
 
-If you have further ideas about how to design the pattern but do not manage to implement them, also submit your ideas in text or image form.
+If you have further ideas about how to design the pattern but do not manage to implement them, also submit your ideas as text or image.
 
 ![pattern_medium](./img/pattern_medium.gif)  
 [Credits to be added]
@@ -143,13 +143,13 @@ If you have further ideas about how to design the pattern but do not manage to i
 
 ## Task 01.05 - Greeting Card
 
-Yes, that time of the year... the holidays! 🎄 🎄 🎄 🎄
+Yes, it is that time of the year... the holidays! 🎄 🎄 🎄 🎄
 
-Design and implement an interactive greeting card. It can be a holiday card, but it doesn't have to be. 
+Design and implement an interactive greeting card. It can be a holiday card, but it doesn't have to be. It can be anything you like.
 
 Recognize your available skills when coming up with ideas. Some of the best results to this task that I saw over the years have been from beginners!
 
-A nice example for basic programming with a creative idea, is Rita's card:
+A nice example for very basic programming with a creative idea, is Rita's card:
 
 <!-- <iframe src="https://editor.p5js.org/legie/full/wmTwrpPWx"></iframe> -->
 
@@ -157,7 +157,7 @@ A nice example for basic programming with a creative idea, is Rita's card:
   
 Rita had no programming experience and this task was one of her first programming attempts. While her code is really *not ideal*, she had a great idea for the skill level she had, and she made it work.
 
-If you have a bit of programming experience already, I expect that you go beyond p5's basic interaction mechanism! For example, you could use some form of input live-stream as interaction. The easiest input is to use a webcam. Creating a webcam feed can be done with [`createCapture()`](https://p5js.org/reference/#/p5/createCapture). For working with video, the [ml5 library](https://ml5js.org/) offers many interesting functionality extensions based on machine learning.
+If you have programming experience already, I expect that you go beyond p5's basic interaction mechanism! For example, you could use some form of input live-stream as interaction. The easiest input is to use a webcam. Creating a webcam feed can be done with [`createCapture()`](https://p5js.org/reference/#/p5/createCapture). For working with video, the [ml5 library](https://ml5js.org/) offers many interesting functionality extensions based on machine learning.
 
 
 *Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5. 
