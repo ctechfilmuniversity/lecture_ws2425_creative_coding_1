@@ -69,18 +69,18 @@ With this course, you will
 |         |              | Setup                  | Markdown                   | Visual Studio Code |
 |         |              | 2D Design              |                            | p5                 |
 | 2       |              | Interaction            | Programming overview       |                    |
-| 3       | Connection   | Algorithmic Thinking   | Languages & Environments   | JavaScript         |
-|         |              | The Web                | html, css, js              |                    |
+| 3       | Instructions | Algorithmic Thinking   | Languages & Environments   | JavaScript         |
+| 4       | Connection   | The Web                | html, css, js              |                    |
 |         |              | Going Online           | Local Webserver            |                    |
 |         |              |                        | Development workflow       |                    |
-| 4       | Space        | 3D                     |                            | three.js           |
+| 5       | Space        | 3D                     |                            | three.js           |
 |         |              | Gui                    |                            |                    |
-| 5       | Instructions | Algorithms             |                            |                    |
-| 5       |              | Higher Order Functions | Function notations         |                    |
+| 6       | Software     | Algorithms             |                            |                    |
+|         |              | Higher Order Functions | Function notations         |                    |
 |         |              |                        | Local Package Installation | Node, npm, vite    |
-| 6       | Abstraction  | Software               | Frontend                   | React              |
+| 7       | Abstraction  | UI                     | Frontend                   | React              |
 |         |              | Portfolios             |                            |                    |
-| 7       | Systems      | Usefulness             | Database                   | Next.js            |
+| 8       | Systems      | Usefulness             | Database                   | Next.js            |
 |         |              |                        | Deployment                 | Prisma             |
 |         |              |                        |                            | Vercel             |
 
