@@ -2,7 +2,8 @@ title: "CC1 🤓"
 remote_theme: just-the-docs/just-the-docs
 search_enabled: false
 
-# color_scheme: dark
+color_scheme: customization
+
 
 # Back to top link
 back_to_top: true
