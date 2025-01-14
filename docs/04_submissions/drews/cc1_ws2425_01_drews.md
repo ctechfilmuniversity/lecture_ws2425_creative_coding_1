@@ -4,7 +4,7 @@ title: Homework
 nav_exclude: true
 ---
 
-#Task 01.02
+# Task 01.02
 
 Overall, how would you rate your skill level of programming?
 * Overall, how would you rate your skill level of programming?
@@ -36,7 +36,7 @@ I would like to learn more about creative coding to deepen my knowledge and expl
 
 # Task 01.03
 
-##Existing Creative Coding Project
+## Existing Creative Coding Project
 
 I really like a piece made by Sam Griffith, a graphic designer based in Detroit. She recently made a piece that combines weaving with creative coding and I think its a great example of how we should think outside of the box in terms of what we can create with coding. During a residency in Barcelona she made a digital tool that maps an image onto a round hand loom (a type of weaving device) in order to weave it. 
 
