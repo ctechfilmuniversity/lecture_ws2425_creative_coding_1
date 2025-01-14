@@ -9,23 +9,23 @@ nav_exclude: true
 Overall, how would you rate your skill level of programming?
 * Overall, how would you rate your skill level of programming?
     * [ ] Never done it
-    * [] Novice
+    * [ ] Novice
     * [ ] Intermediate
     * [x] Advanced
     * [ ] God-like
 * Have you used object-oriented programming before?
-    * [] I don't know what that is
+    * [ ] I don't know what that is
     * [x] I know the concept, but I have never implemented it
     * [ ] Yes
 * Overall, how would you rate your skill level of using web technologies, e.g., have you used a local server setup?
-    * [] Never done it
+    * [ ] Never done it
     * [ ] Novice
     * [ ] Intermediate
     * [x] Advanced
     * [ ] God-like
 * How would you rate your skill level of working with Git and GitHub?
     * [ ] Never done it
-    * [] Novice
+    * [ ] Novice
     * [ ] Intermediate
     * [x] Advanced
     * [ ] God-like
@@ -46,13 +46,17 @@ The project explores how to translate code into physical materials. The process 
 
 # Task 01.05 - The 10 PRINT pattern
 
-[My pattern](https://editor.p5js.org/imoleadrews/sketches/Qwy5uF4z8)
+[p5.js Pattern](https://editor.p5js.org/imoleadrews/sketches/Qwy5uF4z8)
+
+
 ![Pattern](./assets/imogen_pattern.gif)
 
 
 # Task 01.05 - Greeting Card
 
-[Greeting Card](https://editor.p5js.org/imoleadrews/sketches/PujEZTfH6)
+[p5.js Greeting Card](https://editor.p5js.org/imoleadrews/sketches/PujEZTfH6)
+
+
 ![Pattern](./assets/imogen_card.gif)
 
 
@@ -62,4 +66,4 @@ What was most challenging for me was to translate my ideas into a working projec
 
 In the pattern I tried to add things that appeared more complex than what the code eventually was. Through trial and error, I figured out that overlapping the diamonds made the pattern appear more interesting and by changing the colour of the diamond stroke in draw() I was able to give the illusion of flickering lights. 
 
-For my greeting card I then followed how to add the FaceMesh from ML5’s library which was very straight forward. I learned about the UV Unwrap for the Face Mesh Detection from a [tutorial](https://www.youtube.com/watch?v=R5UZsIwPbJA&t=575s)by Dan Shiffman which I then used to find my own keypoints for my clown. Most of my time was spent doing this but overall I am happy that I learned how to do this since I have been interested in working with ML5 for a while.
+For my greeting card I then followed how to add the FaceMesh from ML5’s library which was very straight forward. I learned about the UV Unwrap for the Face Mesh Detection from a [tutorial](https://www.youtube.com/watch?v=R5UZsIwPbJA&t=575s) by Dan Shiffman which I then used to find my own keypoints for my clown. Most of my time was spent doing this but overall I am happy that I learned how to do this since I have been interested in working with ML5 for a while.
