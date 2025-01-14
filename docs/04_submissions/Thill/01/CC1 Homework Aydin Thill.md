@@ -49,9 +49,9 @@ Here are the links to two separate experiments that I have carried out, both of 
 
 [10Print Cube-map rainbow frenzy](https://editor.p5js.org/AydinThill/sketches/zD7rmG4HM)
 
-![01](img/3D_10Print_randomiser.png)
+<img src=img/3D_10Print_randomiser.png alt="alt text" width="400">
 
-![02](img/10Print_Cube-map_rainbow_frenzy.png)
+<img src=img/10Print_Cube-map_rainbow_frenzy.png alt="alt text" width="400">
 
 ## Task 01.05 - Greeting Card
 
@@ -59,4 +59,4 @@ Here is the link to my greeting card generator:
 
 [Best gift ever!](https://editor.p5js.org/AydinThill/sketches/vzlXqVsZ6)
 
-![03](img/Best_Gift_Ever_Start_Preview.png)
+<img src=img/Best_Gift_Ever_Start_Preview.png alt="alt text" width="400">
