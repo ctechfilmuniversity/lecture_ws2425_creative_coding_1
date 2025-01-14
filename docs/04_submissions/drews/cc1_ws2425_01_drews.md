@@ -41,18 +41,18 @@ I really like a piece made by Sam Griffith, a graphic designer based in Detroit.
 
 The project explores how to translate code into physical materials. The process begins with an image and a spiral in code. The spiral extracts colours from the image, storing them in a linear form that represents a straightened thread. Using raffia as the medium, the stored colour data guides where to wrap coloured thread. Finally, the raffia is woven into a spiral, where the image takes shape again, completing a cycle of mapping, unwrapping, and re-wrapping between digital and physical forms.
 
-[Link to her work](https://timrodenbroeker.de/sam-griffith/)
+<!-- [Link to her work](https://timrodenbroeker.de/sam-griffith/) -->
 
 # Task 01.05 - The 10 PRINT pattern
 
-[My pattern](https://editor.p5js.org/imoleadrews/sketches/Qwy5uF4z8)
+<!-- [My pattern](https://editor.p5js.org/imoleadrews/sketches/Qwy5uF4z8) -->
 
 
 
 
 # Task 01.05 - Greeting Card
 
-[Greeting Card](https://editor.p5js.org/imoleadrews/sketches/PujEZTfH6)
+<!-- [Greeting Card](https://editor.p5js.org/imoleadrews/sketches/PujEZTfH6) -->
 
 
 
@@ -63,4 +63,4 @@ What was most challenging for me was to translate my ideas into a working projec
 
 In the pattern I tried to add things that appeared more complex than what the code eventually was. Through trial and error, I figured out that overlapping the diamonds made the pattern appear more interesting and by changing the colour of the diamond stroke in draw() I was able to give the illusion of flickering lights. 
 
-For my greeting card I then followed how to add the FaceMesh from ML5’s library which was very straight forward. I learned about the UV Unwrap for the Face Mesh Detection from a [tutorial](https://www.youtube.com/watch?v=R5UZsIwPbJA&t=570s) by Dan Shiffman which I then used to find my own keypoints for my clown. Most of my time was spent doing this but overall I am happy that I learned how to do this since I have been interested in working with ML5 for a while.
+For my greeting card I then followed how to add the FaceMesh from ML5’s library which was very straight forward. I learned about the UV Unwrap for the Face Mesh Detection from a  tutorial by Dan Shiffman which I then used to find my own keypoints for my clown. Most of my time was spent doing this but overall I am happy that I learned how to do this since I have been interested in working with ML5 for a while.
