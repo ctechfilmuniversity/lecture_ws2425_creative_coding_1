@@ -63,7 +63,7 @@ The second one, A Neural Network Hallucinating Over the Bible, is also an incred
 
 ### Task 01.05 - The 10 PRINT pattern
 
-[The Pattern](https://editor.p5js.org/irugaru/full/YNtqqbouL)
+[The Pattern](https://editor.p5js.org/irugaru/full/XHpebUVzM)
 
 I modified the pattern exmaple provided to make a tiny animation that finalizes in about 10 seconds.
 
