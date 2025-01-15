@@ -1,3 +1,9 @@
+---
+layout: default
+title: Homework
+nav_exclude: true
+---
+
 # CC1 Homework Aydin Thill
 
 ### Task 01.01
