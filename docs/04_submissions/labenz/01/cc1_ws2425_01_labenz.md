@@ -54,13 +54,13 @@ I haven't really found a creative coding project (and I think the Johnny Cash Pr
 
 I implemented the Wave Function Collapse algorithm and tried to generate an abstract human. However, it failed because the rules were too restrictive, and in the end, it's just a nice pattern. It is built using Vite, so just run `npm i` and `npm run dev`.
 image:
-![10 PRINT pattern](img/01.05_print_pattern.png)
-![The Tiles](img/01.05_print_pattern_2.png)
+![10 PRINT pattern](./img/01.05_print_pattern.png)
+![The Tiles](./img/01.05_print_pattern_2.png)
 
 ### Task 01.06 - Greeting Card
 
 I created a website where users can create an account using their nicknames. After that, they get a dashboard with a link that they can share with their friends. The friends can then answer questions about that user regarding moments they shared together in the last year. On New Year's Eve at midnight, the answers get revealed for the user. It should serve as a time capsule where friends can share their memories. It is built using NextJS and Supabase. To run it locally, you would need the _Env Vars_. You can visit the website here: [Yearly Dearly](https://www.yearly-dearly.com/)
-![Greeting Card](img/01.06_greeting_card_1.png)
+![Greeting Card](./img/01.06_greeting_card_1.png)
 
 ## Learnings
 
