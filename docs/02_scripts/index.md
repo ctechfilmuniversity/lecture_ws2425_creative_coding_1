@@ -17,15 +17,14 @@ In this section you find all scripts for the course.
 * [Chapter 01 - Introduction](cc1_ws2425_01_intro_script.md)
 * [Chapter 02 - Setup](cc1_ws2425_02_setup_script.md)
 * [Chapter 03 - GitHub](cc1_ws2425_03_github_script.md)
-* [Chapter 04 - p5](./p5/index.md)
+* [Bonus Material - p5 Course](./p5/index.md)
+* [Chapter 04 - JavaScript](cc1_ws2425_04_javascript_script.md)
+* [Chapter 05 - The Web](cc1_ws2425_06_web_script.md)
 
 
 
 
-
-<!-- * [Chapter 04 - JavaScript](cc1_ws2425_04_javascript_script.md)
-* [Chapter 05 - p5](cc1_ws2425_05_p5_script.md)
-* [Chapter 06 - The Web](cc1_ws2425_06_web_script.md)
+<!-- 
 * [Chapter 07 - three.js](cc1_ws2425_07_threejs_script.md)
 * [Chapter 08 - Debugging](cc1_ws2425_08_debugging_script.md)
 * Chapter 09 - React (*please refer to the slides and session for now*)
