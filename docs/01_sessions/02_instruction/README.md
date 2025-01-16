@@ -54,7 +54,8 @@ Submit a text-based program and its result for each of the following instruction
 
 ### Task 02.02 - *Coding*
 
-> When I see you, it makes me happy.
+> Happiness.
+<!-- > When I see you, it makes me happy. -->
 
 ### Task 02.03 - *Algorithmic Thinking*
 
