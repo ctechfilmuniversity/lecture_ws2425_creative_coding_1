@@ -19,7 +19,7 @@ In this section you find all scripts for the course.
 * [Chapter 03 - GitHub](cc1_ws2425_03_github_script.md)
 * [Bonus Material - p5 Course](./p5/index.md)
 * [Chapter 04 - JavaScript](cc1_ws2425_04_javascript_script.md)
-* [Chapter 05 - The Web](cc1_ws2425_06_web_script.md)
+* [Chapter 05 - The Web](cc1_ws2425_05_web_script.md)
 
 
 
