@@ -58,11 +58,13 @@ As it was possible to use a MIDI song that I've generated with AI, I wanted an a
 <p align="justify">
 Tried to follow the prompt in class, giving instructions to a baby/alien, I thought about choosing a weird dish from where I grew up and trying to explain it to someone. I couldn't find another creative way than writing this dish in pseudo-code. I hope it makes some sense, but I will add photos to at least clarify the possible outcome of the recipe.</p>
 
+![Code](https://owncloud.gwdg.de/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=618&a=true&file=HamsiCode.png&t=qA1YTV1osOxcgp7&scalingup=0)
+
 #### Output of the Proper Written Code
-![SevenSins](https://owncloud.gwdg.de/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=618&a=true&file=PilavSuccess.jpg&t=7SkvXxue3fx6iWJ&scalingup=0)
+![Proper](https://owncloud.gwdg.de/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=618&a=true&file=PilavSuccess.jpg&t=7SkvXxue3fx6iWJ&scalingup=0)
 
 #### Output of the Ambiguous Code
-![SevenSins](https://owncloud.gwdg.de/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=584&a=true&file=PilavFail.jpeg&t=qFnDVD50LRIBFhs&scalingup=0)
+![Ambiguous](https://owncloud.gwdg.de/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=584&a=true&file=PilavFail.jpeg&t=qFnDVD50LRIBFhs&scalingup=0)
 
 
 
