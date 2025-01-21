@@ -10,6 +10,7 @@ nav_exclude: true
 ### Task 02.01 - Circles
 
 [Cycle: Tibetan Book of the Dread](https://editor.p5js.org/irugaru/sketches/3NjUcPLrj)
+
 ![SevenSins](https://owncloud.gwdg.de/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=618&a=true&file=Cycle.png&t=2JjV9WmFjrpyf7O&scalingup=0)
 
 ### Task 02.02 - Happiness
