@@ -11,7 +11,7 @@ nav_exclude: true
 
 ![Pattern](./assets/eye_project.gif)
 
-For the circles project I knew quite fast that I would like to do something with eyes. I then decided that I would like to add music to this project since I have been wanting to learn how to make shapes react to the different amplitudes of sound and felt that circles would be the ideal shape to do this. Upon further research, I found that it would actually make more sense to use P5’s getEnergy() which returns the amount of energy at a specific frequency ranges (bass, lowMid, mid , highMid and treble). I used algorithmic thinking to come up with the process of breaking down the eye into 5 different circles that each respond to one of the frequency ranges. I assigned the ‘treble’—representing the human voice in my song—to control the pupil of the eye, making it the central point that moves when the singer sings.
+
 
 # Task 02.02: Happiness
 
@@ -19,6 +19,10 @@ For the circles project I knew quite fast that I would like to do something with
 
 
 ![Pattern](./assets/imo_lili_holiday.gif)
+
+# Task 02.03 - Algorithmic Thinking
+
+For the circles project I knew quite fast that I would like to do something with eyes. I then decided that I would like to add music to this project since I have been wanting to learn how to make shapes react to the different amplitudes of sound and felt that circles would be the ideal shape to do this. Upon further research, I found that it would actually make more sense to use P5’s getEnergy() which returns the amount of energy at a specific frequency ranges (bass, lowMid, mid , highMid and treble). I used algorithmic thinking to come up with the process of breaking down the eye into 5 different circles that each respond to one of the frequency ranges. I assigned the ‘treble’—representing the human voice in my song—to control the pupil of the eye, making it the central point that moves when the singer sings.
 
 For Happiness, the first thing that came to mind was a holiday that I went on with my childhood best friend. I used the BodySegmentation library from ML5.js which I set to ‘parts’ which segments the human form into different parts and applied this to a short video of the two of us on holiday. Since that was not hard in itself, the algorithmic thinking came in when I wanted to create movement in the background to match the energy found in the video and the holiday in general. I decided to create multiple rectangles in the background using a for loop with the stroke of each rectangle changing randomly according to a set of colours which create a flashing background and depth giving the illusion of movement and energy. One thing that I did not figure out was how to get the ML5 model to play immediately uplon pushing run. I tried placing the loading of the model in the preload() function but this did not help so I am still a bit confused about that. 
 
