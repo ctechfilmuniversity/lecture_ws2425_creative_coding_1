@@ -2,9 +2,11 @@
 
 > Circles
 
+![](./img/cricles-preview.gif)
+
 For this task I thought it would be interesting to start out with a non-circle primitive which then gradually morphs into a circle.
 
-As a kind of fun interaction I tried to build a tool to detect some aspects of the user's mouse movement. I imagined the sketch to work like a scratch card but you have to scratch in a circle. Even though I came close I overlooked too long that going in a diagonal line tricks my naive approach to detecting circular movement and at that point the time budget was already spent.
+In terms of interaction I tried to build a tool to detect some aspects of the user's mouse movement. I imagined the sketch to work like a scratch card but you have to scratch in a circle. Even though I came close I overlooked too long that going in a diagonal line tricks my naive approach to detecting circular movement and at that point the time budget was already spent.
 
 The overall structure of the program is distributed across 3 files:
 
@@ -29,12 +31,15 @@ With this structure I hoped to somewhat differentiate the concerns within the pr
 
 > Happiness
 
-- Lyrics from Happy by Pharrell Williams but you have to clap to skip through the lyrics.
--
+![](./img/happy-preview.gif)
+
+Follow the first instruction after 'loading...' :)
+
+With this sketch I wanted to explore interesting interaction concepts a bit further. Since I haven't used with `ml5`with `p5` I came up with the idea to build a clap detector (close to the example and easy to train a custom model). I split up the lyrics from the song "Happy" by Pharrell Williams into roughly the parts that correlate to the claps you can hear in the original track. And trained my own `Teachable Machine` model with some claps and stock background noise.
 
 ### Task 02.03
 
-Especially with the `Circloid` I
+With the first task I really focused on dividing my code using classes. This really helped to keep track of what is going on where. With the second exercise I tried to pack the steps that are necessary for the ml5 model to work into a class in such a way that it is reusable and also fuses multiple steps into one (the constructor in this case). This helps to avoid annoying issues that arise when restructure code in the `main.ts` file and then change the order in which functions are called.
 
 #### Task 02.04
 
@@ -71,7 +76,7 @@ Again you move forward, twice the square root of two,<br>
 The last turn left is a hundred thirty-five degrees too.<br>
 
 After all, two steps forward is all that's ahead,<br>
-can you tell me who lives in this tiny ass shed?
+can you tell me who lives in this tiny little shed?
 
 ### Task 02.05
 
@@ -102,4 +107,7 @@ rm -rf .git
 
 ## Learnings
 
-- I didn't use `Array.reduce()` in a while and had to look up the syntax again.
+- Getting ml5 to work in a local server env is a bit tricky but you can use `declare var ml5: any; ` and put the script tag in the `index.html` file
+- Passing callback functions between classes sometimes requires to bind the instances to be able to access the context (`ClapDec.ts`)
+- I need to scale down my ideas even further to actually stay within the allocated time budget
+- Writing poems is kind of fun

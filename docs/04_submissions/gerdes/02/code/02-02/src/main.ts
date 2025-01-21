@@ -1,16 +1,33 @@
 import p5 from 'p5';
 import './style.css';
 
+import TextDisplay from './TextDisplay';
+import ClapDec from './ClapDec';
+
 new p5((p: p5) => {
+  let display: TextDisplay;
+  let classifier: ClapDec;
+
   p.setup = () => {
     p.createCanvas(window.innerWidth * 0.8, window.innerHeight * 0.8);
-    p.fill(0);
-    p.stroke(255);
-    p.strokeWeight(2);
+
+    display = new TextDisplay(p, './lyrics.json');
+    classifier = new ClapDec(
+      './clap-model',
+      0.9,
+      600,
+      display.start.bind(display),
+      display.next.bind(display),
+    );
   };
 
   p.draw = () => {
-    p.background(0);
-    p.square(p.width * 0.5 - 50, p.height * 0.5 - 50, 100);
+    display.draw();
   };
+
+  // p.keyPressed = () => {
+  //   if (p.key === ' ') {
+  //     display.next();
+  //   }
+  // };
 });
