@@ -20,13 +20,13 @@ In this section you find all scripts for the course.
 * [Bonus Material - p5 Course](./p5/index.md)
 * [Chapter 04 - JavaScript](cc1_ws2425_04_javascript_script.md)
 * [Chapter 05 - The Web](cc1_ws2425_05_web_script.md)
-
-
+* [Chapter 06 - three.js](cc1_ws2425_06_threejs_script.md)
+* [Chapter 07 - Debugging](cc1_ws2425_07_debugging_script.md)
 
 
 <!-- 
-* [Chapter 07 - three.js](cc1_ws2425_07_threejs_script.md)
-* [Chapter 08 - Debugging](cc1_ws2425_08_debugging_script.md)
+
+
 * Chapter 09 - React (*please refer to the slides and session for now*)
 * [Chapter 10 - Web Applications](cc1_ws2425_10_webapp_script.md)
 * [Chapter 11 - WebSocket](cc1_ws2425_11_websocket_script.md)

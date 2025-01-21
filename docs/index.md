@@ -74,10 +74,10 @@ With this course, you will
 |         |              | Going Online           | Local Webserver            |                    |
 |         |              |                        | Development workflow       |                    |
 | 5       | Space        | 3D                     |                            | three.js           |
+|         |              |                        | Local Package Installation | Node, npm, vite    |
 |         |              | Gui                    |                            |                    |
 | 6       | Software     | Algorithms             |                            |                    |
 |         |              | Higher Order Functions | Function notations         |                    |
-|         |              |                        | Local Package Installation | Node, npm, vite    |
 | 7       | Abstraction  | UI                     | Frontend                   | React              |
 |         |              | Portfolios             |                            |                    |
 | 8       | Systems      | Usefulness             | Database                   | Next.js            |
