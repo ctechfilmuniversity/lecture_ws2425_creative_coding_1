@@ -177,6 +177,18 @@ Please summarize your personal learnings. What was challenging for you in this s
 
 Write and link all task results in a copy of this file. Submit your copy as `cc1_ws2425_XX_lastname.md` in your assignments' folder.
 
+Please add the following header at the beginning of your Markdown file:
+
+```md
+---
+layout: default
+title: Homework
+nav_exclude: true
+---
+```
+
+This will prevent your file showing up in CC1's webpage navigation bar.
+
 ---
 
 **Happy Emerging!**

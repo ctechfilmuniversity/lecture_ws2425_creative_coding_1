@@ -1,3 +1,9 @@
+---
+layout: default
+title: Session
+nav_exclude: true
+---
+
 ### Task 01.02
 
 Please answer the following questions truthfully so that I can set up the lecture accordingly.

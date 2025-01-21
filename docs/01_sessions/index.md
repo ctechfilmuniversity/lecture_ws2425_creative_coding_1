@@ -12,6 +12,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 # Sessions
 
 * [Session 01 - Emergence](01_emergence/README.md)
+* [Session 02 - Instruction](02_instruction/README.md)
 
 
 <!-- * [Session 02 - Emergence](02_emergence/README.md)
