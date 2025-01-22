@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Homework
+nav_exclude: true
+---
 
 
 ## Task 02.01 + 02.02 + 2.05 (Coding + Working with a Local Server)

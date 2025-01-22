@@ -36,7 +36,7 @@ Complete this session by January 14. Going through the scripts and answering the
     * [p5](#p5)
         * [Task 01.04 - p5 With The Online Editor](#task-0104---p5-with-the-online-editor)
         * [Task 01.05 - The 10 PRINT pattern](#task-0105---the-10-print-pattern)
-    * [Task 01.05 - Greeting Card](#task-0105---greeting-card)
+    * [Task 01.06 - Greeting Card](#task-0106---greeting-card)
     * [Learnings](#learnings)
 
 ## Syllabus and Administration
@@ -141,7 +141,7 @@ If you have further ideas about how to design the pattern but do not manage to i
 *Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
 
 
-## Task 01.05 - Greeting Card
+## Task 01.06 - Greeting Card
 
 Yes, it is that time of the year... the holidays! 🎄 🎄 🎄 🎄
 
