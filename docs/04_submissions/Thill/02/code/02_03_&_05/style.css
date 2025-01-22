@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'NeueMachina';
+  src: url('Assets/NeueMachina-Ultrabold.otf') format('opentype');
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(21, 21, 21);
+  color: white;
+}
+
+h1 {
+  margin: 20px;
+  font-family: 'NeueMachina', sans-serif; /* Use the custom font with a fallback */
+}
+
+canvas {
+  display: block;
+}
+
+#canvas-top, #canvas-bottom {
+  display: block;
+}
+
