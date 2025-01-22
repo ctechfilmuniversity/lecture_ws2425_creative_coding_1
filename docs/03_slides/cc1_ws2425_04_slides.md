@@ -1284,7 +1284,6 @@ As you can see it it's quite **a lot** of code for a simple red triangle. This i
 <img src="../02_scripts/img/space/webGL.png" alt="webGL" style="width:80%;">
 ]
 
---
 .right-even[
 
 * WebGL requires a lot of code for setting up a scene
@@ -1474,7 +1473,7 @@ template:inverse
 
 --
   
-For a complex library such as three.js the local installation is the preferred manner but a in a bit more complicated manner.
+For a complex library such as three.js the local installation is the preferred but is a bit more complicated.
 
 
 ???
@@ -1579,10 +1578,11 @@ We need to know about
 .footnote[[[Eloquent JavaScript - Modules]](https://eloquentjavascript.net/10_modules.html#h_zWTXAU93DC)]
 
 --
-* Contains code (as module(s))
+* Contains code
+    * Usually separated into modules
 
 --
-* Contain all information about dependencies
+* Contains all information about dependencies
     * Any relationships between packages are called **dependencies**.
 
 --
@@ -1594,7 +1594,11 @@ We need to know about
 --
 * Versioned
 
---
+---
+.header[Local Installation]
+## Packages
+
+
 
 > Packages require special infrastructure.
 
@@ -1687,7 +1691,7 @@ The node.js version you are using matters a lot!
 * Different projects may require different versions of Node.js
 
 --
-* Node.js comes with its own package manger for itself
+* Node.js needs its own package manger
 
 --
 
@@ -1810,7 +1814,7 @@ npm -v          // 10.9.2
 
 ## Package Installations
 
-For using packages and frameworks, for each project you have 
+For using packages and frameworks, for each project you start from scratch, you have 
 
 --
 1. to initialize the npm environment and 
@@ -2198,9 +2202,13 @@ template:inverse
 * You must use JavaScript to actually draw the graphics
 * Custom `id` value to identify the canvas element in the javascript code
 
-We add three.js code to `scene.js`.
-
 .footnote[[w3schools](https://www.w3schools.com/html/html5_canvas.asp)]
+
+
+--
+
+We add three.js code to fill the canvas element in `scene.js`.
+
 
 
 ---
@@ -2318,6 +2326,11 @@ There are two types of exports, *named* exports and *default* exports. You can h
 // person.js
 export const name = "Jesse";
 export const age = 40;
+
+const identity = 836;
+function computeIdentity(){
+
+}
 ```
 
 
@@ -2492,7 +2505,7 @@ SHOW: console.log(THREE)
 import * as THREE from 'three';
 ```
 
-We access `THREE`'s properties, functions, and classes with the `.` notation.  
+We access `THREE`'s properties, functions, and classes with the **`.` notation**.  
   
 --
   
@@ -2556,9 +2569,6 @@ We do so with the `new` key word:
 ```js
 const camera = new THREE.PerspectiveCamera();
 ```
-
-
---
 
 > Don't forget: To access these classes, we always have to use the `THREE` object, which we have imported in the previous step.
 
