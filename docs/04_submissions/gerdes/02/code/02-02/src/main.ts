@@ -13,7 +13,7 @@ new p5((p: p5) => {
 
     display = new TextDisplay(p, './lyrics.json');
     classifier = new ClapDec(
-      './clap-model',
+      './clap-detect-12', // try out different models here
       0.9,
       600,
       display.start.bind(display),
@@ -24,6 +24,8 @@ new p5((p: p5) => {
   p.draw = () => {
     display.draw();
   };
+
+  // if all ml5 attempts fail remove lower comment :(
 
   // p.keyPressed = () => {
   //   if (p.key === ' ') {

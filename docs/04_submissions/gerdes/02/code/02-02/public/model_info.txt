@@ -1,0 +1,3 @@
+- number indicates number of training steps
+- grad-esc -> gradient escape (the training failed but the model was still saved for demonstration purposes)
+- 12 step model has the lowest loss (< 0.02)
