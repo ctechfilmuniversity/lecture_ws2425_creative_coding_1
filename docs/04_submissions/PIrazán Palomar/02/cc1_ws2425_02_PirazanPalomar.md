@@ -14,6 +14,8 @@ _**David Leonardo Pirazán Palomar**_
 
 ![alt text](https://github.com/ctechfilmuniversity/lecture_ws2425_creative_coding_1/blob/bc301ace785072759c2e21cb2f7711e859208d65/docs/04_submissions/PIraz%C3%A1n%20Palomar/02/img/Circles_pic.png)
 
+[Click here to see the Circles](https://editor.p5js.org/dlpp/full/rdPRKW3CG)
+
 ## Task 02.02
 **_Submit a text-based program and its result for the following instruction. Try to include into the programming some algorithmic thinking, meaning a structured approach._**
 
@@ -21,6 +23,7 @@ _**David Leonardo Pirazán Palomar**_
 
 ![alt text](https://github.com/ctechfilmuniversity/lecture_ws2425_creative_coding_1/blob/8c9117249f8169667ca28c5381b44c3f05311197/docs/04_submissions/PIraz%C3%A1n%20Palomar/02/img/Happiness.png)
 
+[Click here to see the Happiness](https://editor.p5js.org/dlpp/full/rp8Jp6fvD)
 
 ## Task 02.03 - Algorithmic Thinking
 _**Briefly reflect on how you implemented your creative idea. Did you apply algorithmic thinking and if so, how?**_
