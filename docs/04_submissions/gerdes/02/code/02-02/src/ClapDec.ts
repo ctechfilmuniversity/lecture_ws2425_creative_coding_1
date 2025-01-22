@@ -39,6 +39,7 @@ export default class ClapDec {
   private gotResult(results: ClassResult[]) {
     if (!this.ready) return;
     const candidate = results[0];
+    console.log(candidate.label + '| confidence: ' + candidate.confidence);
     if (candidate.label === 'clap' && candidate.confidence > this.threshold) {
       // label name used to be in upper casing 'Clap'
       console.log('Clap detected');
