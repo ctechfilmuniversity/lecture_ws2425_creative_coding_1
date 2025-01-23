@@ -75,6 +75,7 @@ With this course, you will
 |         |              |                        | Development workflow       |                    |
 | 5       | Space        | 3D                     |                            | three.js           |
 |         |              |                        | Local Package Installation | Node, npm, vite    |
+|         |              | Model Loading          |                            |                    |
 |         |              | Gui                    |                            |                    |
 | 6       | Software     | Algorithms             |                            |                    |
 |         |              | Higher Order Functions | Function notations         |                    |
