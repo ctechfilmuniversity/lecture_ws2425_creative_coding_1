@@ -80,7 +80,7 @@ Task 03.02 should be developed with a proper local installation. For that you ca
 
 ### Task 03.03 - Your First Scene
 
-Build a three dimensional, geometric scene. With geometric I mean that the scene should focus on abstract geometry - also think *sculptural*. You could (but don't have to) find inspiration in the following art work.
+Build a three dimensional, geometric scene. With geometric I mean that the scene should focus on abstract geometry - also think *sculptural*. Remember: exceptional creativity often emerges out of constraints. You could (but don't have to) find inspiration in the following art work. 
 
 
 ![mondrian_01](img/mondrian_01.png)  
@@ -113,6 +113,8 @@ Build a three dimensional, geometric scene. With geometric I mean that the scene
 > How to give the above abstractions an 3D embodiment?  
   
 > How to merge 2D and 3D?
+   
+> How about using time as an creative tool? Could there be movement?
 
 <br >
 
