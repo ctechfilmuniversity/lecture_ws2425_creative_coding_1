@@ -1,6 +1,6 @@
 import { EffectComposer, Noise, Bloom } from '@react-three/postprocessing';
 
-export default function PostPorcessor() {
+export default function PostProcessor() {
   return (
     <>
       <EffectComposer>
