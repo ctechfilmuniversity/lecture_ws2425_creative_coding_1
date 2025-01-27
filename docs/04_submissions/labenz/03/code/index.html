@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dotsplay</title>
+    <style>
+      * {
+        user-select: none;
+      }
+
+      body {
+        margin: 0;
+        background: white;
+        cursor: grab;
+      }
+      body:active {
+        cursor: grabbing;
+      }
+      canvas {
+        display: block;
+        position: fixed;
+      }
+      #debug {
+        position: fixed;
+        z-index: 1000;
+        bottom: 10px;
+        right: 10px;
+        background: rgba(255, 255, 255, 0.9);
+        padding: 10px;
+        font-family: monospace;
+        font-size: 1em;
+        opacity: 0;
+        animation: fadeIn 1000ms forwards;
+      }
+      #background {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: 100%;
+        pointer-events: none;
+        opacity: 0.3;
+      }
+      #background.animate {
+        animation: fadeOut 2000ms;
+      }
+      #background.fadeIn {
+        animation: fadeInBackground 1000ms forwards;
+      }
+      #headline {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        font-size: 1em;
+        line-height: 1.2em;
+        font-family: monospace;
+        font-weight: normal;
+        color: black;
+        z-index: 1000;
+        margin: 0;
+        opacity: 0;
+        animation: fadeIn 1000ms forwards;
+      }
+
+      #solved {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        opacity: 0;
+        font-size: 2em;
+        pointer-events: none;
+        z-index: 0;
+        text-transform: uppercase;
+        font-size: 24rem;
+        color: red;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      }
+
+      #solved.animate {
+        display: block;
+        animation: fadeOutScale 2000ms;
+      }
+
+      @keyframes fadeOutScale {
+        0% {
+          opacity: 0;
+          transform: translate(-50%, -50%) scale(1);
+          animation-timing-function: ease-in-out;
+        }
+        20% {
+          opacity: 1;
+        }
+        50% {
+          transform: translate(-50%, -50%) scale(1.1);
+          animation-timing-function: ease-in-out;
+        }
+        80% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 0;
+          transform: translate(-50%, -50%) scale(1);
+        }
+      }
+
+      @keyframes fadeOut {
+        0% {
+          opacity: 0.3;
+        }
+        50% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 0.3;
+        }
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+
+      @keyframes fadeInBackground {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 0.3;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="headline">Connect the dots</h1>
+    <div id="solved">
+      <span>Solved!</span>
+    </div>
+    <div id="debug"></div>
+    <img src="/assets/hint_3.svg" alt="hint image" id="background" />
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
