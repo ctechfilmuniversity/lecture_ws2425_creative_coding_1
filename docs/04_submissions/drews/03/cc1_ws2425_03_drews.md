@@ -8,6 +8,8 @@ nav_exclude: true
 
 ![Spirits](./assets/spirits.gif)
 
+Note: You have to click 'Esc' to start seeing the spirits and their sound
+
 
 # Learnings
 
