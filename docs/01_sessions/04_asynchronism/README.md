@@ -19,8 +19,9 @@ Please complete this session by February 4th. Completing the session should take
 * [Session 04 - Asynchronism / Space Again (15 points)](#session-04---asynchronism--space-again-15-points)
     * [JavaScript Functions \& Asynchronism](#javascript-functions--asynchronism)
         * [Task 04.01](#task-0401)
+        * [Task 04.02 - Coding Practices](#task-0402---coding-practices)
     * [Three.js](#threejs)
-        * [Task 04.02 - Your Own Scene](#task-0402---your-own-scene)
+        * [Task 04.03 - Your Own Scene](#task-0403---your-own-scene)
     * [Learnings](#learnings)
 
 
@@ -45,9 +46,22 @@ If you are more advanced, make sure that your understand Closures, Promises and 
 
 *Submission:* -
 
+
+### Task 04.02 - Coding Practices
+
+Reflect on your usage of resources and Machine Learning tools for coding.
+
+* What have you used and how has it served you? 
+* Do you actually understand the code an ML tool has given to you (in case you have used any)? 
+* Would you be able to re-create it without any help?
+* What can you recommend?
+* How do you want to proceed?
+
+*Submission:* Just a couple of bullet points are sufficient.
+
 ## Three.js
 
-### Task 04.02 - Your Own Scene
+### Task 04.03 - Your Own Scene
 
 Create a Three.js scene up to your liking. There are no constraints for what the scene should be. The result should be polished and will be graded on concept, form / design and implementation quality.
 
