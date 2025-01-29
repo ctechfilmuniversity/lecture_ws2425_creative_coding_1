@@ -14,4 +14,4 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 * [Session 01 - Emergence](01_emergence/README.md)
 * [Session 02 - Instruction](02_instruction/README.md)
 * [Session 03 - Space](03_space/README.md)
-* [Session 04 - Asynchronism](04_asynchronism)
+* [Session 04 - Asynchronism](04_asynchronism/README.md)
