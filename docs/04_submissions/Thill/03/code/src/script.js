@@ -44,6 +44,7 @@ const matcap02 = textureLoader.load('./img/2.png')
 const matcap03 = textureLoader.load('./img/3.png')
 const matcap04 = textureLoader.load('./img/4.png')
 const matcap05 = textureLoader.load('./img/5.png')
+const matcap06 = textureLoader.load('./img/6.png')
 
 ////////////////// OBJECTS
 
@@ -54,12 +55,14 @@ const material02 = new THREE.MeshMatcapMaterial({ matcap: matcap02 })
 const material03 = new THREE.MeshMatcapMaterial({ matcap: matcap03 })
 const material04 = new THREE.MeshMatcapMaterial({ matcap: matcap04 })
 const material05 = new THREE.MeshMatcapMaterial({ matcap: matcap05 })
+const material06 = new THREE.MeshMatcapMaterial({ matcap: matcap06 })
 
 material01.matcap.colorSpace = SRGBColorSpace;
 material02.matcap.colorSpace = SRGBColorSpace;
 material03.matcap.colorSpace = SRGBColorSpace;
 material04.matcap.colorSpace = SRGBColorSpace;
 material05.matcap.colorSpace = SRGBColorSpace;
+material06.matcap.colorSpace = SRGBColorSpace;
 
 
 const mesh01 = new THREE.Mesh(geometry, material01)
@@ -67,6 +70,7 @@ const mesh02 = new THREE.Mesh(geometry, material02)
 const mesh03 = new THREE.Mesh(geometry, material03)
 const mesh04 = new THREE.Mesh(geometry, material04)
 const mesh05 = new THREE.Mesh(geometry, material05)
+const mesh06 = new THREE.Mesh(geometry, material06)
 
 
 // mesh03.position.x = 2
@@ -74,7 +78,7 @@ const mesh05 = new THREE.Mesh(geometry, material05)
 
 scene.add(mesh02)
 
-const meshContainer = [mesh01, mesh02, mesh03, mesh04, mesh05]
+const meshContainer = [mesh01, mesh02, mesh03, mesh04, mesh05, mesh06]
 
 /////////////////// CLONES
 
@@ -141,7 +145,7 @@ const cameraGroup = new THREE.Group();
 scene.add(cameraGroup);
 
 //// Base camera
-const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height, 0.1, 100);
+const camera = new THREE.PerspectiveCamera(80, sizes.width / sizes.height, 0.1, 100);
 camera.position.z = 5; // Set initial position
 cameraGroup.add(camera);
 
