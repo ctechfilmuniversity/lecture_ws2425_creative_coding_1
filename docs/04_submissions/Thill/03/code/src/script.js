@@ -43,26 +43,30 @@ const matcap01 = textureLoader.load('./img/1.png')
 const matcap02 = textureLoader.load('./img/2.png')
 const matcap03 = textureLoader.load('./img/3.png')
 const matcap04 = textureLoader.load('./img/4.png')
+const matcap05 = textureLoader.load('./img/5.png')
 
 ////////////////// OBJECTS
 
-const geometry = new THREE.SphereGeometry(1, 50, 50)
+const geometry = new THREE.SphereGeometry(0.9, 50, 50)
 
 const material01 = new THREE.MeshMatcapMaterial({ matcap: matcap01 })
 const material02 = new THREE.MeshMatcapMaterial({ matcap: matcap02 })
 const material03 = new THREE.MeshMatcapMaterial({ matcap: matcap03 })
 const material04 = new THREE.MeshMatcapMaterial({ matcap: matcap04 })
+const material05 = new THREE.MeshMatcapMaterial({ matcap: matcap05 })
 
 material01.matcap.colorSpace = SRGBColorSpace;
 material02.matcap.colorSpace = SRGBColorSpace;
 material03.matcap.colorSpace = SRGBColorSpace;
 material04.matcap.colorSpace = SRGBColorSpace;
+material05.matcap.colorSpace = SRGBColorSpace;
 
 
 const mesh01 = new THREE.Mesh(geometry, material01)
 const mesh02 = new THREE.Mesh(geometry, material02)
 const mesh03 = new THREE.Mesh(geometry, material03)
 const mesh04 = new THREE.Mesh(geometry, material04)
+const mesh05 = new THREE.Mesh(geometry, material05)
 
 
 // mesh03.position.x = 2
@@ -70,7 +74,7 @@ const mesh04 = new THREE.Mesh(geometry, material04)
 
 scene.add(mesh02)
 
-const meshContainer = [mesh01, mesh02, mesh03, mesh04]
+const meshContainer = [mesh01, mesh02, mesh03, mesh04, mesh05]
 
 /////////////////// CLONES
 
@@ -150,7 +154,6 @@ controls.enableDamping = true;
 const renderer = new THREE.WebGLRenderer({
     canvas: canvas
 })
-
 
 renderer.setSize(sizes.width, sizes.height)
 renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2))
