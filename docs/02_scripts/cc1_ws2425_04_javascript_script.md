@@ -120,7 +120,7 @@ All examples in class assume strict mode, unless (very rarely) specified otherwi
 
 A semicolon should be present after each statement, even if it could possibly be skipped.
 
-![semi](img/04/semi.png)
+![semi](img/javascript/semi.png)
 
 There are languages where a semicolon is truly optional and it is rarely used. In JavaScript, though, there are cases where a line break is not interpreted as a semicolon, leaving the code vulnerable to errors.
 
@@ -287,7 +287,7 @@ This is the same as:
 let user = { name: 'Sully', age: 30 };
 ```
 
-![keyvalue](img/04/keyvalue.png)  
+![keyvalue](img/javascript/keyvalue.png)  
 [[programiz]](https://www.programiz.com/javascript/object)
 
 #### Accessing Properties
@@ -1030,7 +1030,7 @@ function getSum(total, num)
 console.log(sum); // 24
 ```
 
-![mapfilterreduce](img/04/mapfilterreduce.jpg)  
+![mapfilterreduce](img/javascript/mapfilterreduce.jpg)  
 [[Modernes Cpp]](http://www.modernescpp.com/index.php/higher-order-functions)
 
 There are two ways to make this code much more compact: *anonymous* functions and the most modern way: *arrow* functions.
@@ -1530,7 +1530,7 @@ In a *synchronous* programming model, things happen one at a time. When you call
 
 An *asynchronous* model allows multiple things to happen at the same time. When you start an action, your program continues to run. When the action finishes, the program is informed and gets access to the result (for example, the data read from disk).
 
-![program_flow](img/04/program_flow.png)[[source]](https://eloquentjavascript.net/11_async.html)
+![program_flow](img/javascript/program_flow.png)[[source]](https://eloquentjavascript.net/11_async.html)
 
 ### Callbacks
 
@@ -1565,7 +1565,7 @@ function setup()
 }
 ```
 
-![functions_01](img/04/functions_01.png)  
+![functions_01](img/javascript/functions_01.png)  
 [[pinterest]](https://www.pinterest.com/pin/143059725641565518/)
 
 ### Error-First Callbacks
@@ -1699,7 +1699,7 @@ As calls become more nested, the code becomes deeper and increasingly more diffi
 
 This way of coding isn’t very good ☝🏻
 
-![doom](img/04/doom.png)  
+![doom](img/javascript/doom.png)  
 [[javascript.info]](http://javascript.info/callbacks)
 
 For this example it would actually be worthwhile to go back to making every action a standalone function once again, which is more readable and easier to handle:
@@ -1797,7 +1797,7 @@ When the executor finishes the job, it should call one of the functions that it 
     * sets `state` to `rejected`
     * sets `result` to `error`
 
-![](img/04/promise-resolve-reject.png) [[source]](https://javascript.info/promise-basics)
+![](img/javascript/promise-resolve-reject.png) [[source]](https://javascript.info/promise-basics)
 
 In the following, an example of a Promise constructor and a simple executor function with its producing code.
 
@@ -1977,7 +1977,7 @@ Here the flow is:
 
 As the result is passed along the chain of handlers, we can see a sequence of logs: 1 → 2 → 4.
 
-![](img/04/promise-then-chain.png)  
+![](img/javascript/promise-then-chain.png)  
 [[javascript.info]](https://javascript.info/promise-basics)
 
 On the return of a call to `promise.then` it returns an arbitrary *thenable* object, which is treated the same way as a *promise*. On that *thenable* object we can call `.then` again.
@@ -2186,7 +2186,7 @@ There are cases where it’s ok to write `.then` directly, but that’s an excep
 
 #### Summary then & catch
 
-![](img/04/promise-handler-variants.png)  
+![](img/javascript/promise-handler-variants.png)  
 [[javascript.info]](https://javascript.info/promise-chaining)
 
 Once again, if this was confusing, focus for now on knowing what `then` and `catch` are and how to use them. You will need this for working with given functions returning promises, coming from a library or a framework. However, you will not need to write promises yourself any time soon.
@@ -2494,7 +2494,7 @@ The tabs vs. space discussion is as long as time itself.
 
 Here the evaluation of 400,000 GitHub repositories, 1 billion files, 14 terabytes of code:
 
-![tabs_vs_space](img/04/tabs_vs_space.png)  
+![tabs_vs_space](img/javascript/tabs_vs_space.png)  
 
 [[400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs?]](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd) 
 

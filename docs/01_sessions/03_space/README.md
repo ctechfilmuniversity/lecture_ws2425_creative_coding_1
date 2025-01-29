@@ -128,7 +128,7 @@ For this task there is no need to go beyond the three.js basic elements that we 
 *Note:* If you have previous experience with three.js and consider yourself a proficent programmer, I expect you to still challenge yourself technically with this exercise as well as completing a polished result.
   
 
-*Submission*: Link in your markdown submission file at least one result image or video of your work. Aslo, submit the required source files, and your package.json for me to `npm install` and `npm run` your project. If your are using a different environment than npm, let me know which steps to follow and make sure that the required steps to run your project are **easy** and **fast** (any setup that takes more than 5 minutes for me to re-create or need heavy installations, I am most likely not doing).
+*Submission*: Link in your markdown submission file at least one result image or video of your work. Also, submit the required source files, and your package.json for me to `npm install` and `npm run` your project. If your are using a different environment than npm, let me know which steps to follow and make sure that the required steps to run your project are **easy** and **fast** (any setup that takes more than 5 minutes for me to re-create or need heavy installations, I am most likely not doing).
 
 
 ## Learnings
