@@ -1,3 +1,9 @@
+---
+layout: default
+title: Homework
+nav_exclude: true
+---
+
 ###  Task 03.01 + Task 03.02 + Task 03.03 - Local Project Setup & Your First Scene
 
 <img src=img/Preview.png alt="alt text" width="600">
