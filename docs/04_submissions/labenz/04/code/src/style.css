@@ -1,0 +1,140 @@
+/* Variables */
+:root {
+  --color-dark: #192226;
+  --color-light: #f9f9f9;
+  --overlay-dark: rgba(25, 34, 38, 0.8);
+  --overlay-light: rgba(25, 34, 38, 0.4);
+  --font-primary: 'Space Grotesk', serif;
+}
+
+/* Reset */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Layout */
+html,
+body,
+#app {
+  height: 100%;
+  overflow: hidden;
+}
+
+#app {
+  cursor: grab;
+}
+
+#app:active {
+  cursor: grabbing;
+}
+
+body {
+  color: var(--color-dark);
+}
+
+/* Common Positioning */
+.position-absolute {
+  position: absolute;
+}
+
+.center-horizontal {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Typography */
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.text-small {
+  font-size: small;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Font Styles */
+.space-grotesk {
+  font-family: var(--font-primary);
+  font-optical-sizing: auto;
+}
+
+.space-grotesk-semibold {
+  font-family: var(--font-primary);
+  font-optical-sizing: auto;
+  font-weight: 600;
+}
+
+.space-grotesk-regular {
+  font-family: var(--font-primary);
+  font-optical-sizing: auto;
+  font-weight: 400;
+}
+
+/* Navigation */
+.nav-container {
+  display: flex;
+  gap: 1rem;
+  top: 1rem;
+}
+
+.nav-link {
+  cursor: pointer;
+  padding: 0 0.4rem;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.active {
+  color: var(--color-light);
+  background-color: var(--color-dark);
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
+
+/* Components */
+.description {
+  width: 400px;
+  bottom: 1rem;
+  background-color: var(--overlay-dark);
+  color: var(--color-light);
+  padding: 0.6rem 0.4rem;
+}
+
+.info-panel {
+  right: 1rem;
+  bottom: 1rem;
+  width: 200px;
+  background-color: var(--overlay-light);
+  color: var(--color-light);
+  padding: 0.6rem;
+}
+
+.info-panel a {
+  color: var(--color-light);
+}
+
+.info-panel p + p {
+  margin-top: 1rem;
+}
+
+.berlin-label {
+  top: 0;
+  left: 0;
+  transform: translate(-50%, -50%);
+  color: var(--color-dark);
+  pointer-events: none;
+  z-index: 999;
+  font-size: 1rem;
+  text-shadow: -2px 0 var(--color-light), 0 2px var(--color-light),
+    2px 0 var(--color-light), 0 -2px var(--color-light);
+  text-transform: uppercase;
+}
