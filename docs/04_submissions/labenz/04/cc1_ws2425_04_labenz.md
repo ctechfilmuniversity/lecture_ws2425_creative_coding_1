@@ -34,7 +34,7 @@ I think we should consistently question what LLMs can and cannot do. Currently, 
 
 ## Task 04.03 - Sealing vs Cooling
 
-![preview](./img/preview.png)
+![preview](./images/preview.png)
 
 I wanted to find a simple way to visualize complex data in 3D. Since mapping libraries like Mapbox or Leaflet don't provide straightforward options to directly manipulate the 3D space, so I implement the visualization directly in Three.js. The map now displays two data layers: soil sealing and soil cooling capacity. When switching between these layers, the data appears to be inverted, demonstrating the high correlation between soil sealing and the soil's heat absorption capacity.
 
