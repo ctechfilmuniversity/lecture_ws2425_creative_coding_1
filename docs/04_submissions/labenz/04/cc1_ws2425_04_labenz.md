@@ -26,7 +26,7 @@ No, because I don't know all the helper functions in ThreeJS or the exact syntax
 
 ### What can you recommend?
 
-I find Claude significantly better for creative writing. For data cleaning and restructuring, ChatGPT's code execution is excellent, and for complex tasks, DeepSeek R1 or ChatGPT O1 work well. Additionally, function calling can be easily implemented in the OpenAI Playground, allowing ChatGPT to be used as an interface for many applications.
+I find Claude significantly better for creative writing and creating interactive coding tutorials rendered by react. For data cleaning and restructuring, ChatGPT's code execution is excellent, and for complex tasks, DeepSeek R1 or ChatGPT O1 work well. Additionally, function calling can be easily implemented in the OpenAI Playground, allowing ChatGPT to be used as an interface for many applications.
 ![preview](./images/chatgpt-ui.png)
 You can also connect the ChatGPT app directly to your code editor.
 
