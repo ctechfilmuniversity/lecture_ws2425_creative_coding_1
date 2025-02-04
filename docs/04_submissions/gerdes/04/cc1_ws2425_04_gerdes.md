@@ -13,12 +13,21 @@ Even though I have used generative machine learning models for _code completion_
 - My capabilities to `remember precise syntax details` upon writing code is vanishing rapidly (even for basic elements I used thousands of times)
 - I feel an `increasing distance` or rather lack of ownership that hinders motivation and endurance
 
-I conclude that most prominently the availability of auto-complete is responsible for my deteriorating capability to write functioning code on my own. While asking a model and getting an immediate answer lowers the bar compared to being forced to go through hundreds of Stackoverflow articles before arriving at a satisfactory result, this process for me at least has mostly changed in efficiency and not the nature of the task itself. Better tooling like direct IDE integration (eg. GitHub Copilot Chat) are further improvements that rationalize away mundane steps like copy and paste.
+In most cases I feel like I still understand the code that is coming out of the LLM, however there is some kind of mental blurriness setting in as well. Recreating the code I can write using a model is getting increasingly difficult. Not only am I missing things more frequently but if I need to look something up, the internet is so bloated with AI-content now that most search results are not relevant at all.
+
+I conclude that most prominently the availability of auto-complete is responsible for my deteriorating capability to write functioning code on my own. While asking a model and getting an immediate answer lowers the bar compared to being forced to go through hundreds of Stackoverflow articles before arriving at a satisfactory result, this process for me at least has mostly changed in efficiency and not the nature of the task itself. Better tooling like direct IDE integration (eg. GitHub Copilot Chat) are further improvements that rationalize away mundane steps (eg. copy and paste).
 
 Nevertheless `any` reliance still comes with risks:
 
 - Mostly companies but also governments have control over behavior and sentiment these models might exhibit
 - As long as these algorithms are run by profit-seeking companies there will come a time where any dependence on that will be exploited.
+
+My next steps:
+
+- I disabled auto-completion to improve my ability to remember and write correct syntax
+- I will prioritize sovereign solutions but keep the chat as backup
+- The more open-source and local the LLMs are the better
+  - if I have the resources available I will try to run open-source models like Deepseek locally
 
 ### Task 04.03
 
@@ -41,3 +50,4 @@ The vision for this is still to have a flyover above an endless city skyline (th
 
 - Using [Leva](https://github.com/pmndrs/leva) for UI elements
 - Mesh-merging on runtime
+- Rendering Optimization takes time (and is hard)
