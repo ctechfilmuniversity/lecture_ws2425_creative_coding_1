@@ -77,13 +77,11 @@ With this course, you will
 |         |              |                        | Local Package Installation | Node, npm, vite    |
 |         |              | Model Loading          |                            |                    |
 |         |              | Gui                    |                            |                    |
-| 6       | Software     | Algorithms             |                            |                    |
-|         |              | Higher Order Functions | Function notations         |                    |
-| 7       | Abstraction  | UI                     | Frontend                   | React              |
-|         |              | Portfolios             |                            |                    |
-| 8       | Systems      | Usefulness             | Database                   | Next.js            |
-|         |              |                        | Deployment                 | Prisma             |
-|         |              |                        |                            | Vercel             |
+| 6       | Asynchronism | Higher Order Functions | Function notations         |                    |
+| 7       | Systems      | Software               | Deployment                 | Vercel             |
+|         |              | UI                     | Frontend                   | React              |
+| 8       | Usefulness   | Portfolio              |                            | React Three Fiber  |
+
 
 Please note that schedule and topics are under constant development and subject to change!
 
