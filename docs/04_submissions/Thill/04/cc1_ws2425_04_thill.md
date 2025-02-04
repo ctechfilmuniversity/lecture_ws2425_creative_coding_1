@@ -20,6 +20,14 @@ nav_exclude: true
 
 ### Task 04.03 - Your Own Scene
 
+Instructions for when the three.js scene is open:
+
+*You will have the following controls:*
+
+- While pressing the mouse, you will hear a melody originating from the mouse position.
+- Pressing the A key will make the creatures sing.
+- Your mouse position determines which creatures sing and where the sound comes from.
+
 Challenges and learning-points:
 
 - Maintaining a mental structural overview of the code
