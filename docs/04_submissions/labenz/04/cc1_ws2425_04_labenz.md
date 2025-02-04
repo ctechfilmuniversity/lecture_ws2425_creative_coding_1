@@ -11,7 +11,8 @@ Reflect on your usage of resources and Machine Learning tools for coding.
 ### What have you used and how has it served you?
 
 - _Copilot_ primarily for autocompletion
-- _Claude 3.5/ChatGPT 4o_ for coding questions and ChatGPT's quick data conversion using its built-in code execution (e.g., converting CSV to JSON and performing calculations)
+- _Claude 3.5_ for coding questions and interactive coding tutorials
+- _ChatGPT 4o_ for coding questions and ChatGPT's quick data conversion using its built-in code execution (e.g., converting CSV to JSON and performing calculations)
 - _DeepSeek R1/ChatGPT o1_ for understanding complex topics, such as refactoring larger code sections while maintaining functionality
 
 I used Cursor as an IDE for a while due to its integrated AI functionality, but Copilot now performs better.
