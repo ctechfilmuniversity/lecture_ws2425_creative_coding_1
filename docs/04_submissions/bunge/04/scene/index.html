@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello three.js!</title>
+    <style>
+        body { margin: 0; }
+        #loading-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #loading-screen img {
+            max-width: 80%;
+            max-height: 80%;
+        }
+        #death-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgb(0, 0, 0);
+            display: none;
+            justify-content: center;
+            align-items: center;
+        }
+        #death-screen img {
+            max-width: 80%;
+            max-height: 80%;
+        }
+    </style>
+  </head>
+
+  <body>
+    <div id="loading-screen">
+      <img src="./textures/sailor01.png" alt="Loading..." />
+    </div>
+    <div id="death-screen">
+      <img src="./textures/sailor02.png" alt="Dead" />
+    </div>
+    <canvas id="canvasThree"></canvas> 
+
+    <script type="module" src="scene.js"></script> 
+    <script src="./mat/FakeGlowMaterial.js"></script>
+  </body>
+</html>
