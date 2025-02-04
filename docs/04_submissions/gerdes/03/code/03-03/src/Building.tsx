@@ -10,13 +10,13 @@ interface BuildingProps {
   yOffset?: number;
 }
 
-const Building: React.FC<BuildingProps> = ({
+const Building = ({
   maxHeight = 32,
   cellsX = 8,
   cellsY = 8,
   scale = 1,
   yOffset = 0,
-}) => {
+}: BuildingProps) => {
   const baseComponents = [PCube, PCylinder, PPrism];
   const instances: React.ReactElement[] = [];
 

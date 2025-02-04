@@ -6,7 +6,7 @@ import * as THREE from 'three';
 import Building from './Building';
 import PostProcessing from './PostProcessor';
 
-function App() {
+const App = () => {
   return (
     <>
       <div
@@ -36,6 +36,6 @@ function App() {
       </div>
     </>
   );
-}
+};
 
 export default App;

@@ -1,12 +1,7 @@
 import * as THREE from 'three';
 import { PVolumeProps } from './primitiveProps';
 
-const PPrism: React.FC<PVolumeProps> = ({
-  position,
-  rotation,
-  scale,
-  material,
-}) => {
+const PPrism = ({ position, rotation, scale, material }: PVolumeProps) => {
   const shape = new THREE.Shape();
   shape.moveTo(0, 0);
   shape.lineTo(1, 0);

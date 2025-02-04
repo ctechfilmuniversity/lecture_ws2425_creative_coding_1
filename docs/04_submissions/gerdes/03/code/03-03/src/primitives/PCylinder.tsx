@@ -1,12 +1,7 @@
 import * as THREE from 'three';
 import { PVolumeProps } from './primitiveProps';
 
-const PCylinder: React.FC<PVolumeProps> = ({
-  position,
-  rotation,
-  scale,
-  material,
-}) => {
+const PCylinder = ({ position, rotation, scale, material }: PVolumeProps) => {
   const geometry = new THREE.CylinderGeometry(0.5, 0.5, 1, 32);
   geometry.center();
 
