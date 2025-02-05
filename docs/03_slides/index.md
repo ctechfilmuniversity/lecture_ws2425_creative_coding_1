@@ -24,3 +24,5 @@ In this section you find all slides for the course.
 * [Session 07](cc1_ws2425_07_slides.html)
     * [Code Basic Scene](../01_sessions/05_systems/code/react_basic_example.zip)
 * [Session 08](cc1_ws2425_08_slides.html)
+    * [Crappy Portfolio](../01_sessions/05_systems/code/cc1_ws2425_crappy_portfolio.zip)
+    * [RTF Basic Scene](../01_sessions/05_systems/code/rtf_basic_example.zip)

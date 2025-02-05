@@ -12,33 +12,91 @@ class: center, middle, inverse
 #### Film University Babelsberg KONRAD WOLF
 
 
+
 ---
 layout:false
 
 ## Today
 
+.left-even[
 
---
+]
+
+
+---
+
+## Today
+
+.left-even[
 * Routing
+]
 
---
+
+---
+
+## Today
+
+.left-even[
+* Routing
 * React
-
---
     * Properties
-
---
     * Hooks
+]
 
---
-    * Example
+---
 
---
+## Today
+
+.left-even[
+* Routing
+* React
+    * Properties
+    * Hooks
 * React Three Fiber
     * Drei
+]
+
+
+---
+
+## Today
+
+.left-even[
+* Routing
+* React
+    * Properties
+    * Hooks
+* React Three Fiber
+    * Drei
+* Usefulness
+]
+
+
+---
+
+## Today
+
+.left-even[
+* Routing
+* React
+    * Properties
+    * Hooks
+* React Three Fiber
+    * Drei
+* Usefulness
+    * Portfolio
+]
 
 --
+
+.right-even[
 * Wrap Up 🥳
+]
+
+---
+.header[React]
+
+[.center[<img src="../02_scripts/img/react/portfolio_01.png" alt="portfolio_01" style="width:65%;">]](https://cc1-ws2425-crappy-portfolio.vercel.app/)
 
 
 ---
@@ -785,6 +843,8 @@ Key Rules of Hooks
 * Only call hooks at the top level (not inside loops, conditions, or nested functions)
 * Only call hooks in React functions (functional components or custom hooks)
 
+.todo[TODO: Show Portfolio]
+
 
 ---
 template:inverse
@@ -910,7 +970,9 @@ export default App;
 ---
 ## React Three Fiber
 
-
+```
+npm install three @react-three/fiber
+```
 
 
 --
