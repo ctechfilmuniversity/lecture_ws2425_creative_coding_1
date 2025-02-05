@@ -23,3 +23,4 @@ In this section you find all slides for the course.
 * [Session 06](cc1_ws2425_06_slides.html)
 * [Session 07](cc1_ws2425_07_slides.html)
     * [Code Basic Scene](../01_sessions/05_systems/code/react_basic_example.zip)
+* [Session 08](cc1_ws2425_08_slides.html)
