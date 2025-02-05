@@ -10,6 +10,9 @@ nav_exclude: true
 
 <p align="justify">It is a full mechanical device, made from stone, and operated by the help of thermic energy from the Amazon river.
 
+![Test](https://owncloud.gwdg.de/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=618&a=true&file=PlanterDigger02.png&t=7hjtERAj0zB6eUa&scalingup=0)
+![Test](https://owncloud.gwdg.de/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=618&a=true&file=PlanterDigger01.png&t=QdpT1gADxOrd1At&scalingup=0)
+
 ### Learnings
 - Setting up a basic 3D javascript environment to work
 - Implementing textures to the model
