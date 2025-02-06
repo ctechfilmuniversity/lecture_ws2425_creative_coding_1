@@ -441,10 +441,10 @@ import HeroText from "./HeroText.js";
 //...
 export default function Header() {
   return (
-    <div id="header">
+
         <HeroText name="Justus" /> 
         <HeroImage />
-    </div>
+
   );
 }
 ```
@@ -1065,6 +1065,74 @@ In summary, R3F is a React renderer for Three.js, allowing you to build 3D scene
   
 Drei is a utility library that extends R3F with pre-built components.
 
+
+
+
+---
+template:inverse
+
+# Usefulness
+
+
+???
+* What is the definition of usefulness?
+* What does it mean to do something useful?
+
+---
+## Portfolio
+
+> You should have a personal website.
+  
+--
+  
+* [Top 100 Most Creative and Unique Portfolio Websites of 2024 ⬀](https://muz.li/blog/top-100-most-creative-and-unique-portfolio-websites-of-2024/)
+  
+--
+  
+Keep in mind:
+
+--
+
+* Always offer easy navigation as alternative
+
+--
+    * Have people in mind that need to look at 100 portfolios in 30 minutes
+--
+    * I personally like categories and tags
+--
+* Describe your projects: what did you do, which tools did you used, etc.
+
+
+
+---
+
+.center[<img src="../02_scripts/img/software/sloth.png" alt="sloth" style="width:100%;">]
+
+???
+
+https://www.ted.com/talks/lucy_cooke_sloths_the_strange_life_of_the_world_s_slowest_mammal#t-278839
+
+* [sloths](https://www.ted.com/talks/lucy_cooke_sloths_the_strange_life_of_the_world_s_slowest_mammal#t-278839),   
+* [Simone Giertz's work](https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things#t-697827)   
+* https://www.simonegiertz.com/  
+* https://www.youtube.com/c/simonegiertz  
+* [Make Everything Ok Button](http://make-everything-ok.com/)   
+* Vi: https://www.youtube.com/watch?v=ott_0kDkCyg
+
+---
+
+<img src="../02_scripts/img/software/sloth.png" alt="sloth" style="width:80%;">
+
+--
+* What else should we consider as *useful*?
+
+--
+* What do we commonly judge out of context?
+
+
+
+
+
 ---
 template:inverse
 
@@ -1193,43 +1261,6 @@ template: inverse
 --
 * Draw diagrams
 
-
-
-
----
-template:inverse
-
-# Usefulness
-
-
-???
-* What is the definition of usefulness?
-* What does it mean to do something useful?
-
----
-
-.center[<img src="../02_scripts/img/software/sloth.png" alt="sloth" style="width:100%;">]
-
-???
-
-https://www.ted.com/talks/lucy_cooke_sloths_the_strange_life_of_the_world_s_slowest_mammal#t-278839
-
-* [sloths](https://www.ted.com/talks/lucy_cooke_sloths_the_strange_life_of_the_world_s_slowest_mammal#t-278839),   
-* [Simone Giertz's work](https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things#t-697827)   
-* https://www.simonegiertz.com/  
-* https://www.youtube.com/c/simonegiertz  
-* [Make Everything Ok Button](http://make-everything-ok.com/)   
-* Vi: https://www.youtube.com/watch?v=ott_0kDkCyg
-
----
-
-<img src="../02_scripts/img/software/sloth.png" alt="sloth" style="width:80%;">
-
---
-* What else should we consider as *useful*?
-
---
-* What do we commonly judge out of context?
 
 
 
