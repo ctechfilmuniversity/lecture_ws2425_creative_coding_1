@@ -1,10 +1,9 @@
-```
 ---
 layout: default
 title: Homework
 nav_exclude: true
 ---
-```
+
 
 ### Task 04.02 - Coding Practices
 
