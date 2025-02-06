@@ -1,7 +1,3 @@
 *.DS_Store
 .DS_Store
-*cc1_ws2324*
-docs/02_scripts/img/unsorted/*
-docs/02_scripts/img/space/*
-*package-lock.json
-docs/04_submissions/*
+*/node_modules/*
