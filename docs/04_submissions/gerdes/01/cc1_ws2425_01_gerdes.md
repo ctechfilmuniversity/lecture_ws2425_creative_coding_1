@@ -58,7 +58,10 @@ Just for fun I prompted Claude to implement a [version](https://editor.p5js.org/
 
 ## Task 01.05 - Greeting Card
 
-Coming later...
+> Disclaimer:
+> In `ml5`, since version 1.0 video input is broken when using Firefox.
+> I created an [issue](https://github.com/ml5js/ml5-next-gen/issues/245) for that.
+> Because of this, all of my submissions containing any ml5 code are exclusively confirmed to be working using Chrome.
 
 ## Learnings
 

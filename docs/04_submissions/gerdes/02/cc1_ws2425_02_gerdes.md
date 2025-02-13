@@ -39,6 +39,11 @@ With this structure I hoped to somewhat differentiate the concerns within the pr
 
 ![](./img/happy-preview.gif)
 
+> Disclaimer:
+> In `ml5`, since version 1.0 video input is broken when using Firefox.
+> I created an [issue](https://github.com/ml5js/ml5-next-gen/issues/245) for that.
+> Because of this, all of my submissions containing any ml5 code are exclusively confirmed to be working using Chrome.
+
 Follow the first instruction after 'loading...' :)
 
 With this sketch I wanted to explore interesting interaction concepts a bit further. Since I haven't used with `ml5`with `p5` I came up with the idea to build a clap detector (close to the example and easy to train a custom model). I split up the lyrics from the song "Happy" by Pharrell Williams into roughly the parts that correlate to the claps you can hear in the original track. And trained my own `Teachable Machine` model with some claps and stock background noise.

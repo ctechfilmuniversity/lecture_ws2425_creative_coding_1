@@ -13,8 +13,8 @@ new p5((p: p5) => {
 
     display = new TextDisplay(p, './lyrics.json');
     classifier = new ClapDec(
-      './clap-detect-128', // try out different models here
-      0.8,
+      './clap-detect-32', // try out different models here
+      0.52,
       400,
       display.start.bind(display),
       display.next.bind(display),
