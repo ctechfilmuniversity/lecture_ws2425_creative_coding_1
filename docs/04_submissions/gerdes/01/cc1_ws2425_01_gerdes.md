@@ -58,17 +58,26 @@ Just for fun I prompted Claude to implement a [version](https://editor.p5js.org/
 
 ## Task 01.05 - Greeting Card
 
+![](./img/card.gif)
+
 > Disclaimer:
 > In `ml5`, since version 1.0 video / audio input is broken when using Firefox.
 > I created an [issue](https://github.com/ml5js/ml5-next-gen/issues/245) for that.
 > Because of this, all of my submissions containing any ml5 code are exclusively confirmed to be working using Chrome.
 
-## Learnings
+When looking over the `ml5` models that are available, I found the HandPose model was working quite well. After some experimentation, I thought that building some gesture control mechanism would be an interesting challenge. With some more trial and error, I eventually came up with something that is working reasonably well. Concept wise, right after the gesture control, I wanted to build some kind of puzzle like experience. The result is a card combining all the elements that make up the stereotypical Christmas: A tree, some presents, a bit of a struggle and eventually, when it is all over, a lot of snow.
 
-#### 10 PRINT
+## Learnings
 
 Even though I already did some more extensive projects in Processing, the time passed in between really showed. In the end I spent way too much time without really reaching a point I am statsified with.
 
+#### 10 PRINT
+
+- Getting rusty even with familiar environment happens pretty quickly (misalignment of personal expectation and capability)
+- thinking about and developing buffer mechanisms from scratch takes a lot of time
+
 #### Greeting Card
 
-Coming later...
+- building a gesture control mechanism on top of ml5
+- combining HTML context with "game logic" in p5
+- firefox (maybe on intel only, I am lacking an ARM-based machine to test) can't handle ml5 anymore (since v1)

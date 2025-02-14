@@ -28,7 +28,7 @@ new p5((p: p5) => {
     // visual scene
     greet = new Greeting(
       p,
-      'Happy\nHoliday\nand a\nSnowey\nWinter\nSeason!',
+      'Happy\nHoliday\nand a\nSnowy\nWinter\nSeason!',
       p.createVector(100, 200),
       50,
       font,
