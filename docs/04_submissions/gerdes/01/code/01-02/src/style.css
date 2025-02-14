@@ -15,4 +15,43 @@ main {
 
 canvas {
   border: 2px solid #757575;
+  border-radius: 1rem;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  border-radius: 1rem;
+  margin: 2rem;
+  padding: 2rem;
+  border: 2px solid #757575;
+  position: absolute;
+  font-family: 'Silk';
+  font-size: 1rem;
+  background-color: #a4403a;
+  color: white;
+  bottom: 0px;
+  max-width: 1200px;
+}
+
+@font-face {
+  font-family: 'Silk';
+  src: url('./Silkscreen/Silkscreen-Regular.ttf') format(truetype);
+  font-weight: normal;
+  font-style: normal;
+}
+
+#tutorial {
+  transition:
+    transform 0.5s ease-out,
+    opacity 0.5s ease-out;
+}
+
+.animate-out {
+  transform: translateY(100%);
+  opacity: 0;
 }
