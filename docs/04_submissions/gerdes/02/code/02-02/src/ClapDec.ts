@@ -1,4 +1,8 @@
 declare var ml5: any; // using CDN package from index.html
+// Firefox fix -> https://github.com/ml5js/ml5-next-gen/issues/245
+if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
+  ml5.setBackend('webgl');
+}
 
 interface ClassResult {
   label: string;
