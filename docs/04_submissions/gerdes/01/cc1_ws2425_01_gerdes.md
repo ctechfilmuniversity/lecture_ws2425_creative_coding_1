@@ -61,9 +61,9 @@ Just for fun I prompted Claude to implement a [version](https://editor.p5js.org/
 ![](./img/card.gif)
 
 > Disclaimer:
-> In `ml5`, since version 1.0 video / audio input is broken when using Firefox.
+> In `ml5`, since version 1.0 video input is not supported by Firefox.
 > I created an [issue](https://github.com/ml5js/ml5-next-gen/issues/245) for that.
-> Because of this, all of my submissions containing any ml5 code are exclusively confirmed to be working using Chrome.
+> I also added a workaround for firefox but I did not have time to test thoroughly. If any issues arise please try out Safari or Chrome as both are confirmed to be working.
 
 When looking over the `ml5` models that are available, I found the HandPose model was working quite well. After some experimentation, I thought that building some gesture control mechanism would be an interesting challenge. With some more trial and error, I eventually came up with something that is working reasonably well. Concept wise, right after the gesture control, I wanted to build some kind of puzzle like experience. The result is a card combining all the elements that make up the stereotypical Christmas: A tree, some presents, a bit of a struggle and eventually, when it is all over, a lot of snow.
 

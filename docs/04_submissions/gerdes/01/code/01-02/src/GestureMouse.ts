@@ -1,6 +1,11 @@
 import p5 from 'p5';
 declare var ml5: any; // using CDN package from index.html
 
+// Firefox fix -> https://github.com/ml5js/ml5-next-gen/issues/245
+if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
+  ml5.setBackend('webgl');
+}
+
 const handPoseConfig = {
   maxHands: 1,
   flipped: true,
