@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.environment-scene {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+}
+
+img,
+a {
+  -webkit-user-drag: none;
+  user-drag: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* Custom scrollbar hiding for multiple browsers */
+@layer utilities {
+  .scrollbar-hidden {
+    /* For Firefox */
+    scrollbar-width: none;
+    /* For IE and Edge */
+    -ms-overflow-style: none;
+  }
+
+  /* For WebKit browsers (Chrome, Safari) */
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
+    background: transparent;
+  }
+}
