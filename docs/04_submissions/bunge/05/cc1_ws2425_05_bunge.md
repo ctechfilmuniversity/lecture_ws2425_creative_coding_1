@@ -22,7 +22,7 @@ I imagined by using LLMs in a future case to implement the relation between what
 
 ---
 
-You can see the source code in the folder "_code_" and visit the [webiste here](https://wahlprogramme-website.vercel.app/).
+You can see the source code in the folder "_code_" and visit the [website here](https://wahlprogramme-website.vercel.app/).
 
 ---
 

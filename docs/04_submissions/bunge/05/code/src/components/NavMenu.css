@@ -1,0 +1,29 @@
+.nav-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; 
+    position: absolute;
+    bottom: 0; 
+    right: 0;
+    width: 100%;
+    padding: 20px;
+    z-index: 1;
+  }
+  
+  .nav-item {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 12px;
+    line-height: 1.1;
+    padding-left: 0px;
+    font-weight: normal;
+    text-align: right;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+  }
+  
