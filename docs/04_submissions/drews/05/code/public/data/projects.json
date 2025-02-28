@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Circles",
+      "image": "/assets/eye_pic.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi, sed feugiat eros at velit suscipit, eget dictum nulla venenatis. Integer euismod, lacus non pharetra pharetra, metus purus laoreet velit, vel malesuada purus lectus id ex. Suspendisse potenti, fusce tristique dui non felis vulputate, at dictum nulla tincidunt.",
+      "link": "https://editor.p5js.org/imoleadrews/sketches/au5O2-hLC"
+    },
+    {
+      "id": 2,
+      "name": "Pattern",
+      "image": "/assets/pattern_image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi, sed feugiat eros at velit suscipit, eget dictum nulla venenatis. Integer euismod, lacus non pharetra pharetra, metus purus laoreet velit, vel malesuada purus lectus id ex. Suspendisse potenti, fusce tristique dui non felis vulputate, at dictum nulla tincidunt.",
+      "link": "https://editor.p5js.org/imoleadrews/sketches/Qwy5uF4z8"
+    },
+    {
+      "id": 3,
+      "name": "Happiness",
+      "image": "/assets/friends_image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi, sed feugiat eros at velit suscipit, eget dictum nulla venenatis. Integer euismod, lacus non pharetra pharetra, metus purus laoreet velit, vel malesuada purus lectus id ex. Suspendisse potenti, fusce tristique dui non felis vulputate, at dictum nulla tincidunt.",
+      "link": "https://editor.p5js.org/imoleadrews/sketches/ubLXsRiEo"
+    },
+    {
+      "id": 4,
+      "name": "Spirit",
+      "image": "/assets/spirit.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi, sed feugiat eros at velit suscipit, eget dictum nulla venenatis. Integer euismod, lacus non pharetra pharetra, metus purus laoreet velit, vel malesuada purus lectus id ex. Suspendisse potenti, fusce tristique dui non felis vulputate, at dictum nulla tincidunt.",
+      "link": "https://github.com/yourusername/portfolio"
+    },
+    {
+      "id": 5,
+      "name": "Clown",
+      "image": "/assets/clown_image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi, sed feugiat eros at velit suscipit, eget dictum nulla venenatis. Integer euismod, lacus non pharetra pharetra, metus purus laoreet velit, vel malesuada purus lectus id ex. Suspendisse potenti, fusce tristique dui non felis vulputate, at dictum nulla tincidunt.",
+      "link": "https://editor.p5js.org/imoleadrews/sketches/PujEZTfH6"
+    },
+    {
+      "id": 6,
+      "name": "Zombie",
+      "image": "/assets/zombie.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi, sed feugiat eros at velit suscipit, eget dictum nulla venenatis. Integer euismod, lacus non pharetra pharetra, metus purus laoreet velit, vel malesuada purus lectus id ex. Suspendisse potenti, fusce tristique dui non felis vulputate, at dictum nulla tincidunt.",
+      "link": "https://github.com/yourusername/ecommerce-store"
+    }
+  ]
+  
