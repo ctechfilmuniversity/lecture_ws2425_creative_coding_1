@@ -8,4 +8,4 @@ While this prototype remains a work in progress, it has provided valuable insigh
 
 # Preview
 
-<img src=img/1.png alt="alt text" width="600">
+<img src=Final/img/1.png alt="alt text" width="600">
